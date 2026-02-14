@@ -25,7 +25,7 @@ export default function ThankYouPage() {
     useEffect(() => {
         if (!user) return;
 
-        // Poll for payment status update
+        // 1. Initial Check
         const checkStatus = async () => {
             try {
                 const { data, error } = await supabase
@@ -37,31 +37,42 @@ export default function ThankYouPage() {
                 if (data?.payment_status === 'paid') {
                     setIsPaid(true);
                     setVerifying(false);
-                    return true;
                 }
             } catch (err) {
-                console.error("Polling error:", err);
+                console.error("Initial check error:", err);
             }
-            return false;
         };
 
-        // Initial check
         checkStatus();
 
-        // Interval polling every 3 seconds
-        const interval = setInterval(async () => {
-            const done = await checkStatus();
-            if (done) clearInterval(interval);
-        }, 3000);
+        // 2. Realtime Subscription (The "Magic" part)
+        const channel = supabase
+            .channel(`profile_payment_${user.id}`)
+            .on(
+                'postgres_changes',
+                {
+                    event: 'UPDATE',
+                    schema: 'public',
+                    table: 'profiles',
+                    filter: `id=eq.${user.id}`
+                },
+                (payload: any) => {
+                    console.log('Realtime update received:', payload);
+                    if (payload.new.payment_status === 'paid') {
+                        setIsPaid(true);
+                        setVerifying(false);
+                    }
+                }
+            )
+            .subscribe();
 
-        // Timeout fallback after 45 seconds (increased for stability)
+        // 3. Timeout fallback after 60 seconds (Safety net)
         const timeout = setTimeout(() => {
-            clearInterval(interval);
             setVerifying(false);
-        }, 45000);
+        }, 60000);
 
         return () => {
-            clearInterval(interval);
+            supabase.removeChannel(channel);
             clearTimeout(timeout);
         };
     }, [user]);
