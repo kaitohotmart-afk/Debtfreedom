@@ -1,0 +1,904 @@
+{
+    "landing": {
+        "hero": {
+            "headline": "Tired of Working Hard and Staying Broke?",
+            "subheadline": "If you're drowning in debt, living paycheck to paycheck, and terrified of the next due date… this could be your financial turning point.",
+            "cta": "I WANT MY FREEDOM BACK"
+        },
+        "languageSelector": {
+            "title": "Choose your language",
+            "subtitle": "Select your preferred language to continue"
+        },
+        "painPoints": {
+            "title": "You Know This Pain Too Well...",
+            "points": [
+                "That forced smile when friends invite you out and you make up an excuse",
+                "That lie you tell family about 'everything's under control'",
+                "That sinking feeling when you check your bank statement",
+                "That shame you feel about yourself",
+                "Sleepless nights worrying about the next bill",
+                "The constant stress that's destroying your health",
+                "Feeling trapped with no way out"
+            ]
+        },
+        "cta": {
+            "main": "DISCOVER IF THERE'S STILL HOPE FOR YOU",
+            "subtitle": "Take the 2-minute Financial Survival Assessment",
+            "quiz": "START FREE ASSESSMENT"
+        }
+    },
+    "common": {
+        "next": "Next",
+        "back": "Back",
+        "finish": "Finish",
+        "loading": "Loading...",
+        "error": "An error occurred. Please try again.",
+        "save": "Save",
+        "cancel": "Cancel",
+        "logout": "Logout",
+        "nav": {
+            "dashboard": "Dashboard",
+            "x_ray": "Financial X-Ray",
+            "debt": "Debt Sniper",
+            "budget": "Budget System",
+            "journey": "90-Day Journey",
+            "expenses": "Expense Tracker",
+            "sos": "Emergency SOS",
+            "community": "Community & Support"
+        }
+    },
+    "auth": {
+        "signup": {
+            "title": "Create Your Account",
+            "subtitle": "Start your journey to financial freedom",
+            "full_name": "Full Name",
+            "full_name_placeholder": "Enter your full name",
+            "email": "Email Address",
+            "email_placeholder": "you@example.com",
+            "password": "Password",
+            "password_placeholder": "Create a strong password",
+            "password_length": "At least 8 characters",
+            "password_uppercase": "One uppercase letter",
+            "password_number": "One number",
+            "terms_prefix": "I agree to the",
+            "terms_link": "Terms of Service",
+            "terms_and": "and",
+            "privacy_link": "Privacy Policy",
+            "submit": "Create Account",
+            "already_have_account": "Already have an account?",
+            "signin_link": "Sign In"
+        },
+        "signin": {
+            "title": "Welcome Back",
+            "subtitle": "Continue your path to freedom",
+            "email": "Email Address",
+            "email_placeholder": "you@example.com",
+            "password": "Password",
+            "password_placeholder": "Enter your password",
+            "forgot_password": "Forgot password?",
+            "submit": "Sign In",
+            "no_account": "Don't have an account?",
+            "signup_link": "Sign Up"
+        },
+        "errors": {
+            "terms_required": "You must agree to the Terms of Service",
+            "weak_password": "Password does not meet requirements"
+        }
+    },
+    "checkout": {
+        "title": "Complete Your Purchase",
+        "subtitle": "One-time payment. Lifetime access.",
+        "order_summary": "What You're Getting",
+        "feature_1": "90-Day Debt Freedom Program",
+        "feature_1_desc": "Complete R.E.S.E.T. method system",
+        "feature_2": "Financial X-Ray Tools",
+        "feature_2_desc": "Track and eliminate debt systematically",
+        "feature_3": "Lifetime Access",
+        "feature_3_desc": "No subscriptions. Pay once, use forever.",
+        "subtotal": "Regular Price",
+        "total": "Today Only",
+        "one_time": "One-time payment • No recurring charges",
+        "guarantee_title": "30-Day Money-Back Guarantee",
+        "guarantee_text": "If you're not satisfied, we'll refund you. No questions asked.",
+        "payment_details": "Payment Method",
+        "account": "Account",
+        "pay_now": "Complete Payment",
+        "secure_payment": "SSL Encrypted Payment",
+        "data_protected": "Your data is protected",
+        "email_notice": "Important: Use the same email address during payment to ensure instant access.",
+        "need_help": "Need help?",
+        "contact_us": "Contact us"
+    },
+    "thanks": {
+        "verifying_title": "Verifying Your Payment...",
+        "verifying_subtitle": "This should only take a few seconds. We're setting up your elite access.",
+        "success_title": "Welcome to Freedom",
+        "success_subtitle": "Your payment was successful. The 90-day reset starts now.",
+        "welcome_badge": "Elite Member",
+        "next_steps_title": "What Happens Now?",
+        "next_steps": "Your account is activated. You can now access your personalized dashboard and begin your first mission.",
+        "cta": "Go to Dashboard",
+        "timeout_title": "Almost there...",
+        "timeout_subtitle": "We're still waiting for the payment confirmation. You can try accessing the dashboard directly.",
+        "check_manually": "Access Dashboard Anyway"
+    },
+    "community": {
+        "title": "Community & Support",
+        "subtitle": "You are not alone. Connect, learn, and grow with others on the same journey.",
+        "tabs": {
+            "stories": "Success Stories",
+            "resources": "Resource Library",
+            "chat": "WhatsApp Support",
+            "guidelines": "Guidelines"
+        }
+    },
+    "dashboard": {
+        "welcome_msg": "The 90-day journey to your debt-free life started today.",
+        "score": {
+            "title": "Financial Survival Score",
+            "desc": "Complete your X-Ray to trigger analysis",
+            "calculated": "Improving weekly",
+            "not_calculated": "Not Calculated"
+        },
+        "budget_system": {
+            "title": "CashFlow OS",
+            "subtitle": "Digital Envelope System. Stop wondering where your money went, and tell it where to go.",
+            "overview": {
+                "total_allocated": "Total Allocated",
+                "total_spent": "Total Spent",
+                "remaining": "Safe to Spend",
+                "surplus": "Sniper Surplus"
+            },
+            "envelopes": {
+                "title": "Your Tactical Envelopes",
+                "empty": "No envelopes setup yet. Let's initialize your budget.",
+                "init_cta": "Setup Envelopes",
+                "status": {
+                    "healthy": "On Track",
+                    "warning": "Near Limit",
+                    "danger": "Overspent",
+                    "surplus": "Extra Cash"
+                }
+            },
+            "actions": {
+                "add_expense": "Log Spending",
+                "edit_allocation": "Adjust Envelope",
+                "view_history": "History"
+            }
+        },
+        "progress": {
+            "title": "Journey Progress",
+            "day": "Day",
+            "of": "of"
+        },
+        "debt_card": {
+            "title": "Debt Under Attack",
+            "subtitle": "Strategically targeted",
+            "empty": "No active debts found"
+        },
+        "journey": {
+            "title": "The 90-Day Reset",
+            "subtitle": "13 Weeks of tactical missions to reclaim your life.",
+            "weeks": {
+                "1": {
+                    "title": "Stabilization",
+                    "theme": "Stopping the Bleed",
+                    "description": "This week we find the leaks and stabilize your cashflow. No more surprises.",
+                    "checklist": [
+                        "Complete Financial X-Ray",
+                        "Identify 3 unnecessary subscriptions",
+                        "Set up CashFlow OS envelopes"
+                    ]
+                },
+                "2": {
+                    "title": "The Survival Buffer",
+                    "theme": "Building the Wall",
+                    "description": "You need an emergency fund of R1,000 before we start killing debt.",
+                    "checklist": [
+                        "Save your first R1,000 buffer",
+                        "Move buffer to a separate account",
+                        "Name the account 'The Peace Fund'"
+                    ]
+                },
+                "3": {
+                    "title": "The Hunger Games",
+                    "theme": "Aggressive Cutting",
+                    "description": "Temporary discomfort for permanent freedom. We cut everything but the essentials.",
+                    "checklist": [
+                        "No eating out for 7 days",
+                        "Audit grocery list (Generic brands only)",
+                        "Identify R300 to redirect to debt"
+                    ]
+                },
+                "4": {
+                    "title": "Debt Inventory",
+                    "theme": "Facing the Music",
+                    "description": "Total transparency. We list every single cent you owe to anyone.",
+                    "checklist": [
+                        "Verify all debt balances",
+                        "List all interest rates",
+                        "Sort by Sniper Priority"
+                    ]
+                },
+                "5": {
+                    "title": "Tactical Sniper Setup",
+                    "theme": "Battle Strategy",
+                    "description": "Choose your weapon: Snowball for wins, or Avalanche for math.",
+                    "checklist": [
+                        "Select Debt Sniper Strategy",
+                        "Automate minimum payments",
+                        "Calculate first 'Sniper Shot'"
+                    ]
+                },
+                "6": {
+                    "title": "The Creditor Call",
+                    "theme": "Negotiation",
+                    "description": "We take the power back. We call them and lower the rates.",
+                    "checklist": [
+                        "Call principal creditor",
+                        "Request interest rate reduction",
+                        "Ask for late fee waivers"
+                    ]
+                },
+                "7": {
+                    "title": "The First Kill",
+                    "theme": "First Blood",
+                    "description": "The moment it becomes real. Seeing a balance hit zero.",
+                    "checklist": [
+                        "Execute extra payment",
+                        "Close the first account",
+                        "Celebrate the win (R0 celebration)"
+                    ]
+                },
+                "8": {
+                    "title": "Velocity Building",
+                    "theme": "The Roll-Over",
+                    "description": "Don't spend the extra money. Roll it into the next target.",
+                    "checklist": [
+                        "Identify 'Killed Payment' amount",
+                        "Redirect to 'Next Base' debt",
+                        "Log the updated timeline"
+                    ]
+                },
+                "9": {
+                    "title": "Side Hustle Sprint",
+                    "theme": "Ammo Generation",
+                    "description": "Accelerate the kill date by bringing in more ammo.",
+                    "checklist": [
+                        "Find 3 items to sell online",
+                        "Execute 1 extra income task",
+                        "Add 'Ammo' to Sniper Shot"
+                    ]
+                },
+                "10": {
+                    "title": "Relationship Repair",
+                    "theme": "The Home Front",
+                    "description": "Money stress kills marriages. We build a combined front.",
+                    "checklist": [
+                        "Have a 'Dream Session' with partner",
+                        "Set a joint financial goal",
+                        "Share the Sniper progress"
+                    ]
+                },
+                "11": {
+                    "title": "Psychology of Wealth",
+                    "theme": "Mindset Shift",
+                    "description": "Why did you get into debt? We fix the root cause.",
+                    "checklist": [
+                        "Identify your 'Money Trigger'",
+                        "Create a spending wait-list",
+                        "Reflect on 'Identity over Icons'"
+                    ]
+                },
+                "12": {
+                    "title": "Legacy Planning",
+                    "theme": "Beyond Debt",
+                    "description": "When the debt is gone, where does the money go?",
+                    "checklist": [
+                        "Plan first investment goal",
+                        "Calculate net worth growth",
+                        "Draft your 'Financial Will'"
+                    ]
+                },
+                "13": {
+                    "title": "The New Identity",
+                    "theme": "Graduation",
+                    "description": "You are no longer a person in debt. You are a Master of Cashflow.",
+                    "checklist": [
+                        "Finalize 90-day review",
+                        "Set 'Phase 2' wealth goals",
+                        "Share success with community"
+                    ]
+                }
+            },
+            "stats": {
+                "current_week": "Current Week",
+                "missions_done": "Missions Executed",
+                "badges": "Badges Earned"
+            }
+        },
+        "streak": {
+            "title": "Active Streak",
+            "days": "Days",
+            "msg": "Keep the momentum!"
+        },
+        "mission": {
+            "title": "Current Mission",
+            "week": "Week",
+            "action_required": "First Action Required",
+            "mission_01": "Mission 01: Setup",
+            "mission_02": "Mission 02: Tactical"
+        },
+        "quick_actions": {
+            "title": "Quick Actions",
+            "add_expense": "Add Expense",
+            "update_debt": "Update Debt",
+            "view_budget": "View Budget",
+            "emergency_sos": "Emergency SOS"
+        },
+        "onboarding": {
+            "steps": {
+                "1": {
+                    "title": "Welcome to Your New Life",
+                    "subtitle": "You've officially stopped the bleeding. Today is the day you stop being a victim of debt and start becoming its master.",
+                    "badge": "MISSION START"
+                },
+                "2": {
+                    "title": "The R.E.S.E.T. Code",
+                    "subtitle": "Our strategy is built on 5 pillars. Learn them, live them, and you will never be broke again.",
+                    "pillar_r": "Recognize the leaks",
+                    "pillar_e": "Eliminate toxic debt",
+                    "pillar_s": "Strategize cashflow",
+                    "pillar_e2": "Execute micro-missions",
+                    "pillar_t": "Transform your DNA"
+                },
+                "3": {
+                    "title": "The 90-Day Timeline",
+                    "subtitle": "13 weeks of tactical missions. We don't just 'hope' for freedom here; we engineer it.",
+                    "week_1_4": "The X-Ray & Stabilization",
+                    "week_5_8": "The Debt Sniper Offensive",
+                    "week_9_12": "Wealth Foundation Building",
+                    "week_13": "The New Financial Identity"
+                },
+                "4": {
+                    "title": "You Are Not Alone",
+                    "subtitle": "Join 2,800+ South Africans who are currently executing the same missions. We rise together.",
+                    "stat_users": "2,842 Active Members",
+                    "stat_debt": "R12.5M Debt Cleared"
+                },
+                "5": {
+                    "title": "Your First Mission",
+                    "subtitle": "Before we can kill the debt, we have to find out exactly where it's hiding. Are you ready?",
+                    "cta": "START FINANCIAL X-RAY"
+                }
+            },
+            "skip": "Skip intro",
+            "next": "Continue",
+            "finish": "Let's Go!"
+        },
+        "summary": {
+            "title": "Monthly Tactical Summary",
+            "savings_projection": "Projected Monthly Savings"
+        }
+    },
+    "quiz": {
+        "question": "Question",
+        "secure": "This connection is secure & anonymous",
+        "analyzing": {
+            "title": "Analyzing Your Financial Profile...",
+            "subtitle": "Comparing your situation with 2,847 successful recovery cases."
+        },
+        "questions": {
+            "debt_amount": {
+                "question": "How much debt is currently weighing on your shoulders?",
+                "options": {
+                    "opt1": "It's manageable (Under R10,000)",
+                    "opt2": "It's getting heavy (R10k - R50k)",
+                    "opt3": "It's suffocating me (R50k - R200k)",
+                    "opt4": "I've lost count (> R200,000)"
+                }
+            },
+            "monthly_status": {
+                "question": "Which statement best describes your month-end reality?",
+                "options": {
+                    "opt1": "I save money every month",
+                    "opt2": "I break even (Zero balance)",
+                    "opt3": "I'm always short",
+                    "opt4": "I borrow more just to survive"
+                }
+            },
+            "sleep_quality": {
+                "question": "How is this financial stress affecting your sleep?",
+                "options": {
+                    "opt1": "I sleep like a baby",
+                    "opt2": "I wake up worrying sometimes",
+                    "opt3": "I have frequent insomnia",
+                    "opt4": "I have panic attacks / Nightmares"
+                }
+            },
+            "collection_status": {
+                "question": "Are bill collectors chasing you right now?",
+                "options": {
+                    "opt1": "No, everything is paid",
+                    "opt2": "Occasional reminders",
+                    "opt3": "Constant harassment calls",
+                    "opt4": "Legal threats / Letters of demand"
+                }
+            },
+            "relationship_impact": {
+                "question": "How is this impacting your closest relationships?",
+                "options": {
+                    "opt1": "Not at all",
+                    "opt2": "Some minor tension",
+                    "opt3": "We fight about money constantly",
+                    "opt4": "It's tearing my family apart"
+                }
+            },
+            "emotional_state": {
+                "question": "When you think about your money, what do you feel?",
+                "options": {
+                    "opt1": "Hopeful and in control",
+                    "opt2": "Anxious but managing",
+                    "opt3": "Guilty and ashamed",
+                    "opt4": "Paralyzed by fear"
+                }
+            },
+            "past_attempts": {
+                "question": "What have you tried before to fix this?",
+                "options": {
+                    "opt1": "Nothing yet, this is my first step",
+                    "opt2": "Tried apps and spreadsheets",
+                    "opt3": "Tried a consolidation loan (didn't work)",
+                    "opt4": "Tried debt review (regretted it)"
+                }
+            },
+            "primary_goal": {
+                "question": "If you could wave a magic wand, what would you want most?",
+                "options": {
+                    "opt1": "Just to sleep peacefully again",
+                    "opt2": "To provide properly for my family",
+                    "opt3": "To travel and enjoy life",
+                    "opt4": "To leave a legacy, not debt"
+                }
+            }
+        }
+    },
+    "results": {
+        "ready": "Your Analysis is Complete",
+        "score_title": "Financial Survival Score",
+        "zones": {
+            "critical": "CRITICAL DANGER",
+            "warning": "HIGH RISK",
+            "safe": "STABLE"
+        },
+        "analysis": {
+            "critical": "You are currently drowning. Your financial trajectory points towards total collapse within 6-12 months if nothing changes. This is not about 'saving a little more' - you need a complete system reset.",
+            "warning": "You are living on the edge. One unexpected expense could push you into a debt spiral. You're working hard but building someone else's wealth, not yours.",
+            "safe": "You have a foundation, but you're not optimizing. You could be building wealth much faster if you eliminated the lingering inefficiencies."
+        },
+        "projection": {
+            "title": "Your 5-Year Projection",
+            "subtitle": "Based on your current habits vs. The R.E.S.E.T. Method",
+            "current_path": "Current Path: R-250,000 net worth",
+            "reset_path": "R.E.S.E.T. Path: R+1.2M net worth"
+        },
+        "cta": {
+            "main": "SEE HOW TO FIX THIS IN 90 DAYS",
+            "sub": "Get your personalized roadmap",
+            "button": "UNLOCK MY RESCUE PLAN"
+        }
+    },
+    "sales": {
+        "hero": {
+            "badge": "⚠ HIGH PRIORITY INTERVENTION",
+            "headline_start": "IT'S TIME TO",
+            "headline_end": "STOP THE BLEEDING.",
+            "subheadline": "You’ve seen your score. You know the truth. Now, let’s talk about the <bold>only way out</bold> that doesn't involve bankruptcy or losing your dignity.",
+            "cta": "SHOW ME THE RESCUE PLAN ↓"
+        },
+        "problem": {
+            "title": "THE OLD WAY (FAILURE)",
+            "items": {
+                "1": "Trying to 'budget' with no money",
+                "2": "Consolidation loans (more debt)",
+                "3": "Ignoring calls and hoping it goes away",
+                "4": "Depression > Anxiety > Paralysis cycle"
+            }
+        },
+        "solution": {
+            "title": "THE R.E.S.E.T. METHOD",
+            "items": {
+                "1": "<b>R</b>ecognize the leaks immediately",
+                "2": "<b>E</b>liminate toxic debt systematically",
+                "3": "<b>S</b>trategize strictly for cashflow",
+                "4": "<b>E</b>xecute daily micro-missions",
+                "5": "<b>T</b>ransform your financial DNA"
+            }
+        },
+        "offer": {
+            "title": "THE 90-DAY FREEDOM PROTOCOL",
+            "cards": {
+                "1": {
+                    "title": "Financial X-Ray",
+                    "desc": "See exactly where every cent is going in 15 mins."
+                },
+                "2": {
+                    "title": "Debt Sniper",
+                    "desc": "A mathematical strategy to kill interest rates."
+                },
+                "3": {
+                    "title": "Cashflow OS",
+                    "desc": "Automate your survival so you can sleep."
+                }
+            }
+        },
+        "pricing": {
+            "limited": "LIMITED TIME OFFER",
+            "original": "R 997.00",
+            "price": "R 247",
+            "cents": ".00",
+            "lifetime": "One-time payment. Lifetime access.",
+            "cta": "JOIN THE PROTOCOL NOW",
+            "guarantee": "30-Day Money-Back Guarantee"
+        },
+        "testimonials": {
+            "title": "FROM DROWNING TO THRIVING",
+            "subtitle": "Results from South Africans.",
+            "verified": "Verified Purchase",
+            "items": {
+                "1": {
+                    "text": "I was skeptical because I've tried debt review and it ruined my life. This is different. It's not a legal process, it's a math strategy. I killed my Woolies card in month 2.",
+                    "author": "Thabo M.",
+                    "role": "Johannesburg, SA",
+                    "rating": 5
+                },
+                "2": {
+                    "text": "Honest feedback: The first week is brutal. You realize how much money you waste. But once the 'Debt Sniper' method kicks in, it becomes addictive to see the numbers go down. 4.8/5.",
+                    "author": "Bongani Z.",
+                    "role": "Pretoria, SA",
+                    "rating": 4
+                },
+                "3": {
+                    "text": "My husband didn't want to do this. I bought it anyway. Last night we slept for 8 hours straight for the first time in years. The peace of mind is worth 10x the price.",
+                    "author": "Lerato K.",
+                    "role": "Cape Town, SA",
+                    "rating": 5
+                }
+            }
+        },
+        "faq": {
+            "title": "FREQUENTLY ASKED QUESTIONS",
+            "items": {
+                "1": {
+                    "q": "Does this work if I'm under debt review?",
+                    "a": "Yes. The cashflow strategies apply regardless of your legal status. You need survival skills now."
+                },
+                "2": {
+                    "q": "How much time does it take?",
+                    "a": "15 minutes a day. If you don't have 15 minutes to save your life, you have bigger problems."
+                },
+                "3": {
+                    "q": "Is there a guarantee?",
+                    "a": "Yes. 30 days. If you do the work and don't see results, I'll refund you. No questions."
+                },
+                "4": {
+                    "q": "Can I access this on my phone?",
+                    "a": "Yes. The entire platform is 100% mobile-friendly so you can use it anywhere."
+                },
+                "5": {
+                    "q": "Do you need my bank details?",
+                    "a": "No. We never ask for your bank account numbers or passwords. Your privacy comes first."
+                },
+                "6": {
+                    "q": "What if I get stuck?",
+                    "a": "We have a dedicated support team available via email and WhatsApp to guide you."
+                }
+            }
+        },
+        "footer": "This is not a 'get rich quick' scheme. This is hard work. But it works if you work it.",
+        "popup": {
+            "title": "WAIT! Don't Leave Empty Handed",
+            "subtitle": "Get the first chapter of the Debt Freedom Protocol completely FREE.",
+            "placeholder": "Enter your email address",
+            "cta": "SEND ME THE FREE CHAPTER",
+            "close": "No thanks, I prefer to stay in debt."
+        },
+        "widget": {
+            "tooltip": "Chat with an expert"
+        },
+        "notifications": {
+            "purchased": "purchased Debt Freedom Protocol",
+            "minutes_ago": "minutes ago"
+        }
+    },
+    "x_ray": {
+        "title": "Financial X-Ray",
+        "income": {
+            "title": "Monthly Income",
+            "subtitle": "What comes into your bank account every month after tax?",
+            "primary": "Primary Salary (Take Home)",
+            "additional": "Additional / Side Hustle Income",
+            "total": "Total Monthly Cashflow In"
+        },
+        "expenses": {
+            "title": "Monthly Expenses",
+            "subtitle": "Rent, Food, Fuel, Entertainment... where does it go?",
+            "total_out": "Total Out",
+            "difference": "Difference (Gap)"
+        },
+        "debts": {
+            "title": "Debt Inventory",
+            "subtitle": "List all your active debts (Cards, Loans, Store Accounts).",
+            "total_owed": "Total Debt Owed",
+            "name_placeholder": "e.g. FNB Credit Card",
+            "balance": "Current Balance",
+            "rate": "Interest Rate (%)",
+            "min_payment": "Min. Payment"
+        },
+        "summary": {
+            "title": "Review Your X-Ray",
+            "subtitle": "Confirm everything looks correct before our 'Debt Sniper' engine begins analysis.",
+            "finish_cta": "Finalize X-Ray & Calculate Strategy",
+            "analyzing": "Analyzing Data...",
+            "complete_title": "X-Ray Complete!",
+            "complete_subtitle": "We've analyzed your data. Your 'Financial Gap' is",
+            "good_news": "The Good News",
+            "good_news_surplus": "You have a surplus! We can use this to kill your debts much faster than the banks expect.",
+            "good_news_deficit": "We've identified the leaks. Now we have a clear map to reclaim your cashflow.",
+            "next_step": "Next Step",
+            "next_step_desc": "The 'Debt Sniper' strategy is being calculated based on your interest rates.",
+            "back_dashboard": "Back to Dashboard"
+        }
+    },
+    "debt_sniper": {
+        "title": "Debt Sniper Strategy",
+        "subtitle": "Tactical elimination engine. Choose your weapon and kill the debt.",
+        "strategy": {
+            "title": "Choose Your Strategy",
+            "snowball": "Snowball (Lowest Balance)",
+            "avalanche": "Avalanche (Highest Interest)",
+            "snowball_desc": "Psychological wins by killing small debts first.",
+            "avalanche_desc": "Mathematical optimization by saving most interest."
+        },
+        "ladder": {
+            "title": "The Priority Ladder",
+            "threat": "Current Target",
+            "next": "Next Base",
+            "secured": "Eliminated"
+        },
+        "projection": {
+            "title": "Payoff Projection",
+            "subtitle": "Staying on the path vs. Executing the Sniper Shot",
+            "bank_path": "Bank's Path",
+            "sniper_path": "Sniper Path",
+            "interest_saved": "Total Interest Saved",
+            "time_saved": "Time Saved"
+        },
+        "scripts": {
+            "title": "Negotiation Scripts",
+            "subtitle": "Use these tactical templates to lower your rates today.",
+            "copied": "Copied!"
+        }
+    },
+    "sos": {
+        "title": "Financial SOS",
+        "subtitle": "When your house is on fire, you do not redecorate. You put out the flames.",
+        "warning": {
+            "title": "This is for financial emergencies only",
+            "list": {
+                "rent": "Can't pay rent/mortgage this month",
+                "utilities": "Utilities about to be cut off",
+                "medical": "Medical emergency with no funds",
+                "job": "Lost your job",
+                "collectors": "Debt collectors calling"
+            }
+        },
+        "start_btn": "Start Emergency Triage",
+        "disclaimer": "This is not professional financial advice. In severe crisis, consult a registered debt counselor.",
+        "triage": {
+            "title": "Emergency Triage",
+            "subtitle": "Answer these questions so we can help you prioritize.",
+            "submit_btn": "Get Emergency Action Plan",
+            "q1": {
+                "title": "What's the emergency?",
+                "options": {
+                    "rent": "Cannot pay rent/mortgage",
+                    "utilities": "Utilities being cut off",
+                    "medical": "Medical emergency",
+                    "job_loss": "Lost my job",
+                    "transport": "No transport",
+                    "debt_collectors": "Debt collectors",
+                    "other": "Other crisis"
+                }
+            },
+            "q2": {
+                "title": "How many days until you face consequences?",
+                "options": {
+                    "today": "Today/Tomorrow",
+                    "days_3_7": "3-7 days",
+                    "weeks_1_2": "1-2 weeks",
+                    "weeks_2_plus": "2+ weeks"
+                }
+            },
+            "q3": {
+                "title": "Do you have ANY money right now?",
+                "options": {
+                    "zero": "R0",
+                    "minimal": "R1-100",
+                    "low": "R100-500",
+                    "moderate": "R500+"
+                }
+            }
+        },
+        "plan": {
+            "urgency": {
+                "critical": "CRITICAL EMERGENCY",
+                "urgent": "URGENT SITUATION",
+                "high": "HIGH PRIORITY",
+                "important": "IMPORTANT"
+            },
+            "action_msg": {
+                "today": "You need to act TODAY.",
+                "days_few": "You have a few days. Act fast.",
+                "days_plan": "You have time to plan, but do not wait."
+            },
+            "priority": {
+                "title": "What to Pay FIRST (Survival)",
+                "tier_1": {
+                    "title": "Tier 1: Pay First",
+                    "items": [
+                        "✓ Food (the bare minimum)",
+                        "✓ Shelter (rent/mortgage)",
+                        "✓ Critical medicine",
+                        "✓ Water & Lights"
+                    ]
+                },
+                "tier_2": {
+                    "title": "Tier 2: Pay if Possible",
+                    "items": [
+                        "✓ Transport to work",
+                        "✓ Phone (to find work)",
+                        "✓ Childcare"
+                    ]
+                },
+                "tier_3": {
+                    "title": "Tier 3: Negotiate/Defer",
+                    "items": [
+                        "• Credit Cards",
+                        "• Personal Loans",
+                        "• Store Accounts"
+                    ]
+                },
+                "tier_4": {
+                    "title": "Tier 4: Ignore for Now",
+                    "items": [
+                        "• Subscriptions",
+                        "• Entertainment",
+                        "• Non-essentials"
+                    ]
+                },
+                "scripts": {
+                    "title": "Negotiation Scripts",
+                    "tips_label": "Tips:",
+                    "more_link": "More scripts available in full kit.",
+                    "rent": {
+                        "title": "Landlord Payment Plan",
+                        "script": "Hello [Name], I am calling regarding my rent for [Address]...",
+                        "tips": [
+                            "Be honest",
+                            "Offer something",
+                            "Get it in writing"
+                        ]
+                    },
+                    "utilities": {
+                        "title": "Utility Extension Request",
+                        "script": "I am a customer at [Account Number]...",
+                        "tips": [
+                            "Call before cut-off",
+                            "Explain situation"
+                        ]
+                    }
+                },
+                "income": {
+                    "title": "Quick Income Ideas (24-72h)",
+                    "ideas": {
+                        "sell": {
+                            "title": "Sell Items",
+                            "earnings": "R500-5000",
+                            "time": "24h",
+                            "platform": "Facebook Marketplace"
+                        },
+                        "delivery": {
+                            "title": "Delivery",
+                            "earnings": "R200/day",
+                            "time": "Immediate",
+                            "platform": "Uber Eats"
+                        },
+                        "jobs": {
+                            "title": "Odd Jobs",
+                            "earnings": "R100-1000",
+                            "time": "1-3 days",
+                            "platform": "Local Groups"
+                        }
+                    }
+                },
+                "community": {
+                    "title": "Community Resources",
+                    "resources": {
+                        "sassa": {
+                            "title": "SASSA",
+                            "desc": "Social Relief Grant"
+                        },
+                        "ncr": {
+                            "title": "Debt Counselling",
+                            "desc": "Free Help (NCR)"
+                        },
+                        "mental": {
+                            "title": "Mental Health",
+                            "desc": "24h Support"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "expenses": {
+        "title": "Expense Tracker",
+        "subtitle": "Track every Rand. Control your future.",
+        "stats": {
+            "today": "Today's Spending",
+            "month": "This Month",
+            "transactions": "Transactions"
+        },
+        "search_placeholder": "Search expenses...",
+        "filters": {
+            "search": "Search expenses...",
+            "all_categories": "All Categories"
+        },
+        "list": {
+            "empty_title": "No expenses found",
+            "empty_subtitle": "Start tracking your spending now!",
+            "date_today": "Today",
+            "date_yesterday": "Yesterday"
+        },
+        "add_modal": {
+            "title": "Add Expense",
+            "amount_label": "Amount (R)",
+            "category_label": "Category",
+            "description_label": "Description (Optional)",
+            "description_placeholder": "e.g., Lunch at cafe",
+            "cancel_btn": "Cancel",
+            "submit_btn": "Add Expense",
+            "submitting_btn": "Adding..."
+        },
+        "quick_add": "Add Expense",
+        "categories": {
+            "food": "Food & Dining",
+            "transport": "Transport",
+            "housing": "Housing",
+            "utilities": "Utilities",
+            "entertainment": "Entertainment",
+            "shopping": "Shopping",
+            "healthcare": "Healthcare",
+            "other": "Other"
+        },
+        "quick_add_modal": {
+            "title": "Add Expense",
+            "amount_label": "Amount (R)",
+            "amount_placeholder": "0.00",
+            "category_label": "Category",
+            "description_label": "Description (Optional)",
+            "description_placeholder": "e.g., Lunch at cafe",
+            "cancel": "Cancel",
+            "submit": "Add Expense",
+            "submitting": "Adding..."
+        },
+        "empty": {
+            "message": "No expenses found. Start tracking!"
+        },
+        "date_labels": {
+            "today": "Today",
+            "yesterday": "Yesterday"
+        }
+    }
+}

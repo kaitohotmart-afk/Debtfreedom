@@ -1,0 +1,1042 @@
+{
+    "landing": {
+        "hero": {
+            "headline": "Moeg om Hard te Werk en Steeds Brok te Bly?",
+            "subheadline": "As jy verdrink in skuld, van salaris tot salaris leef, en bang is vir die volgende vervaldatum... dit kan jou finansiële keerpunt wees.",
+            "cta": "EK WIL MY VRYHEID TERUGHÊ"
+        },
+        "languageSelector": {
+            "title": "Kies jou taal",
+            "subtitle": "Kies jou voorkeur taal om voort te gaan"
+        },
+        "painPoints": {
+            "title": "Jy Ken Hierdie Pyn Te Goed...",
+            "points": [
+                "Daardie gedwonge glimlag wanneer vriende jou uitnooi en jy 'n verskoning maak",
+                "Daardie leuen wat jy vir familie vertel oor 'alles is onder beheer'",
+                "Daardie sinkende gevoel wanneer jy jou bankstaat nagaan",
+                "Daardie skaamte wat jy oor jouself voel",
+                "Slapelose nagte bekommerd oor die volgende rekening",
+                "Die konstante stres wat jou gesondheid vernietig",
+                "Voel vasgevang sonder uitweg"
+            ]
+        },
+        "cta": {
+            "main": "ONTDEK OF DAAR NOG HOOP VIR JOU IS",
+            "subtitle": "Neem die 2-minuut Finansiële Oorlewingsassessering",
+            "quiz": "BEGIN GRATIS ASSESSERING"
+        }
+    },
+    "common": {
+        "next": "Volgende",
+        "back": "Terug",
+        "finish": "Klaar",
+        "loading": "Laai tans...",
+        "error": "'n Fout het voorgekom. Probeer asseblief weer.",
+        "save": "Stoor",
+        "cancel": "Kanselleer",
+        "logout": "Teken uit",
+        "nav": {
+            "dashboard": "Dashboard",
+            "x_ray": "Finansiële X-straal",
+            "debt": "Skuld Sniper",
+            "budget": "Begrotingstelsel",
+            "journey": "90-Dae Reis",
+            "expenses": "Uitgawe Tracker",
+            "sos": "Nood SOS",
+            "community": "Gemeenskap en Ondersteuning"
+        }
+    },
+    "auth": {
+        "signup": {
+            "title": "Skep Jou Rekening",
+            "subtitle": "Begin jou reis na finansiële vryheid",
+            "full_name": "Volledige Naam",
+            "full_name_placeholder": "Voer jou volledige naam in",
+            "email": "E-posadres",
+            "email_placeholder": "jy@voorbeeld.com",
+            "password": "Wagwoord",
+            "password_placeholder": "Skep 'n sterk wagwoord",
+            "password_length": "Ten minste 8 karakters",
+            "password_uppercase": "Een hoofletter",
+            "password_number": "Een nommer",
+            "terms_prefix": "Ek stem in tot die",
+            "terms_link": "Diensbepalings",
+            "terms_and": "en",
+            "privacy_link": "Privaatheidsbeleid",
+            "submit": "Skep Rekening",
+            "already_have_account": "Het jy reeds 'n rekening?",
+            "signin_link": "Teken In"
+        },
+        "signin": {
+            "title": "Welkom Terug",
+            "subtitle": "Gaan voort met jou pad na vryheid",
+            "email": "E-posadres",
+            "email_placeholder": "jy@voorbeeld.com",
+            "password": "Wagwoord",
+            "password_placeholder": "Voer jou wagwoord in",
+            "forgot_password": "Wagwoord vergeet?",
+            "submit": "Teken In",
+            "no_account": "Het jy nie 'n rekening nie?",
+            "signup_link": "Skep Rekening"
+        },
+        "errors": {
+            "terms_required": "Jy moet instem tot die Diensbepalings",
+            "weak_password": "Wagwoord voldoen nie aan vereistes nie"
+        }
+    },
+    "checkout": {
+        "title": "Voltooi Jou Aankoop",
+        "subtitle": "Eenmalige betaling. Lewenslange toegang.",
+        "order_summary": "Wat Jy Kry",
+        "feature_1": "90-Dag Skuld Vryheid Program",
+        "feature_1_desc": "Volledige R.E.S.E.T. metode stelsel",
+        "feature_2": "Finansiële X-straal Gereedskap",
+        "feature_2_desc": "Spoor en elimineer skuld sistematies",
+        "feature_3": "Lewenslange Toegang",
+        "feature_3_desc": "Geen inskrywings. Betaal een keer, gebruik vir ewig.",
+        "subtotal": "Normale Prys",
+        "total": "Slegs Vandag",
+        "one_time": "Eenmalige betaling • Geen herhalende koste",
+        "guarantee_title": "30-Dag Geld-Terug Waarborg",
+        "guarantee_text": "As jy nie tevrede is nie, gee ons jou geld terug. Geen vrae gevra nie.",
+        "payment_details": "Betalingsmetode",
+        "account": "Rekening",
+        "pay_now": "Voltooi Betaling",
+        "secure_payment": "SSL Geënkripteerde Betaling",
+        "data_protected": "Jou data is beskerm",
+        "email_notice": "Belangrik: Gebruik dieselfde e-posadres tydens betaling om onmiddellike toegang te verseker.",
+        "need_help": "Benodig hulp?",
+        "contact_us": "Kontak ons"
+    },
+    "thanks": {
+        "verifying_title": "Verifieer Jou Betaling...",
+        "verifying_subtitle": "Dit behoort slegs 'n paar sekondes te neem. Ons stel jou elite-toegang op.",
+        "success_title": "Welkom by Vryheid",
+        "success_subtitle": "Jou betaling was suksesvol. Die 90-dae reset begin nou.",
+        "welcome_badge": "Elite Lid",
+        "next_steps_title": "Wat Gebeur Nou?",
+        "next_steps": "Jou rekening is geaktiveer. Jy kan nou toegang kry tot jou persoonlike dashboard en jou eerste missie begin.",
+        "cta": "Gaan na Dashboard",
+        "timeout_title": "Byna daar...",
+        "timeout_subtitle": "Ons wag nog vir die betalingsbevestiging. Jy kan probeer om die dashboard direk te besoek.",
+        "check_manually": "Gaan in elk geval na Dashboard"
+    },
+    "community": {
+        "title": "Gemeenskap en Ondersteuning",
+        "subtitle": "Jy is nie alleen nie. Koppel, leer en groei saam met ander op dieselfde reis.",
+        "tabs": {
+            "stories": "Suksesverhale",
+            "resources": "Hulpbronbiblioteek",
+            "chat": "WhatsApp Ondersteuning",
+            "guidelines": "Riglyne"
+        }
+    },
+    "dashboard": {
+        "welcome_msg": "Die 90-dae reis na jou skuldvrye lewe het vandag begin.",
+        "score": {
+            "title": "Finansiële Oorlewingsyfer",
+            "desc": "Voltooi jou X-straal om ontleding te aktiveer",
+            "calculated": "Verbeter weekliks",
+            "not_calculated": "Nie Bereken Nie"
+        },
+        "budget_system": {
+            "title": "Begrotingstelsel",
+            "subtitle": "Gee elke Rand 'n werk. Beplan jou besteding voor die maand begin.",
+            "actions": {
+                "view_history": "Sien Geskiedenis",
+                "add_expense": "Voeg Uitgawe By"
+            },
+            "envelopes": {
+                "empty": "Nog geen koeverte geskep nie",
+                "init_cta": "Skep Jou Eerste Koevert"
+            }
+        },
+        "progress": {
+            "title": "Reisvordering",
+            "day": "Dag",
+            "of": "van"
+        },
+        "streak": {
+            "days": "Dae",
+            "title": "Streak"
+        },
+        "mission": {
+            "week": "Week",
+            "action_required": "Aksie Nodig",
+            "mission_01": "Voltooi Finansiële X-straal",
+            "mission_02": "Voer Skuld Sniper Uit"
+        },
+        "quick_actions": {
+            "title": "Vinnige Aksies",
+            "add_expense": "Voeg Uitgawe By",
+            "update_debt": "Dateer Skuld Op",
+            "view_budget": "Sien Begroting",
+            "emergency_sos": "Nood SOS"
+        },
+        "debt_card": {
+            "title": "Skuld Onder Aanval",
+            "subtitle": "Strategies geteiken",
+            "empty": "Geen aktiewe skuld gevind nie"
+        },
+        "journey": {
+            "title": "90-Dae Reis",
+            "subtitle": "Jou week-vir-week padkaart na totale finansiële vryheid.",
+            "stats": {
+                "current_week": "Huidige Week",
+                "badges": "Kentekens Verdien"
+            },
+            "weeks": {
+                "1": {
+                    "title": "Die Ontwaking",
+                    "theme": "Bewustheid",
+                    "description": "Stop die bloeding. Verstaan presies waarheen elke sent gaan.",
+                    "checklist": [
+                        "Voltooi Finansiële X-Straal",
+                        "Spoor elke uitgawe na vir 7 dae",
+                        "Vries kredietkaarte",
+                        "Geen Besteding Dag"
+                    ]
+                },
+                "2": {
+                    "title": "Die Suiwering",
+                    "theme": "Minimalisme",
+                    "description": "Verkoop wat jy nie nodig het nie. Kanselleer subskripsies. Sny die vet.",
+                    "checklist": [
+                        "Oudit subskripsies",
+                        "Verkoop 3 items",
+                        "Onderhandel een rekening",
+                        "Verlaag kruidenierswarerekening met 10%"
+                    ]
+                },
+                "3": {
+                    "title": "Bufferfonds",
+                    "theme": "Sekuriteit",
+                    "description": "Bou jou baba-noodfonds. R2,000 tot R5,000 kontant.",
+                    "checklist": [
+                        "Maak aparte spaarrekening oop",
+                        "Verkoop meer items",
+                        "Naweek bywerk",
+                        "Bereik R2,000 doelwit"
+                    ]
+                },
+                "4": {
+                    "title": "Plastiese Chirurgie",
+                    "theme": "Verbintenis",
+                    "description": "Sny die kredietkaarte op. Maak die rekeninge toe. Geen omdraai nie.",
+                    "checklist": [
+                        "Sny kaarte fisies op",
+                        "Bel bank om rekeninge te sluit",
+                        "Verwyder gestoorde kaarte aanlyn",
+                        "Vier vryheid"
+                    ]
+                },
+                "5": {
+                    "title": "Sniper Strategie",
+                    "theme": "Fokus",
+                    "description": "Lys skulde van kleinste tot grootste. Val die kleinste aan met alles.",
+                    "checklist": [
+                        "Lys alle skulde",
+                        "Kies Sneeubal metode",
+                        "Betaal minimums op die res",
+                        "Gooi ekstra geld na kleinste skuld"
+                    ]
+                },
+                "6": {
+                    "title": "Begrotingsbaas",
+                    "theme": "Beheer",
+                    "description": "Verfyn jou Zero-Based Begroting. Gee elke Rand 'n werk.",
+                    "checklist": [
+                        "Hersien vorige maand se besteding",
+                        "Pas begrotingskategorieë aan",
+                        "Probeer kontantkoeverte",
+                        "Beplan alle ongelyke uitgawes"
+                    ]
+                },
+                "7": {
+                    "title": "Inkomste Inspuiting",
+                    "theme": "Hustle",
+                    "description": "Vergroot die graaf. Vind maniere om meer geld te maak.",
+                    "checklist": [
+                        "Vra vir 'n verhoging",
+                        "Begin 'n newe-inkomste",
+                        "Verkoop hoë-waarde item",
+                        "Werk oortyd"
+                    ]
+                },
+                "8": {
+                    "title": "Onderhandeling Ninja",
+                    "theme": "Voorspraak",
+                    "description": "Verlaag jou vaste koste. Versekering, telefoon, huur.",
+                    "checklist": [
+                        "Bel versekeringsverskaffer",
+                        "Gradeer telefoonplan af",
+                        "Onderhandel huur/gimnasium",
+                        "Vergelyk bankfooie"
+                    ]
+                },
+                "9": {
+                    "title": "Gewoonte Hacker",
+                    "theme": "Dissipline",
+                    "description": "Vervang duur gewoontes met gratis ones.",
+                    "checklist": [
+                        "Maaltydvoorbereiding Sondag",
+                        "Gratis naweekaktiwiteit",
+                        "Kanselleer een stroomdiens",
+                        "30-dae geen uiteet uitdaging"
+                    ]
+                },
+                "10": {
+                    "title": "Skuldvernietiger",
+                    "theme": "Momentum",
+                    "description": "Jy behoort vordering te sien. Verdubbel.",
+                    "checklist": [
+                        "Dateer skuldsaldo's op",
+                        "Bereken afbetaaldata",
+                        "Visualiseer vordering",
+                        "Deel oorwinning met gemeenskap"
+                    ]
+                },
+                "11": {
+                    "title": "Toekoms Visie",
+                    "theme": "Hoop",
+                    "description": "Hoe lyk die lewe sonder skuld? Droom groot.",
+                    "checklist": [
+                        "Skryf 'n visieverklaring",
+                        "Bereken netto waarde",
+                        "Beplan skuldvrye viering",
+                        "Lees 'n finansies boek"
+                    ]
+                },
+                "12": {
+                    "title": "Vrygewigheid",
+                    "theme": "Gee",
+                    "description": "Geld is 'n instrument vir goed. Verander jou ingesteldheid van skaarste na oorvloed.",
+                    "checklist": [
+                        "Gee 'n klein bedrag aan liefdadigheid",
+                        "Help 'n vriend",
+                        "Klein daad van goedhartigheid",
+                        "Reflekteer oor dankbaarheid"
+                    ]
+                },
+                "13": {
+                    "title": "Vryheid",
+                    "theme": "Oorwinning",
+                    "description": "Die eerste been van die reis is verby. Hierdie is net die begin.",
+                    "checklist": [
+                        "Hersien 90-dae vordering",
+                        "Stel volgende 90-dae doelwitte",
+                        "Verbind tot die lang termyn",
+                        "Vier!"
+                    ]
+                }
+            }
+        }
+    },
+    "streak": {
+        "title": "Aktiewe Reeks",
+        "days": "Dae",
+        "msg": "Hou die momentum!"
+    },
+    "mission": {
+        "title": "Huidige Missie",
+        "week": "Week",
+        "action_required": "Eerste Aksie Vereis",
+        "mission_01": "Missie 01: Opstelling",
+        "mission_02": "Missie 02: Takties"
+    },
+    "quick_actions": {
+        "title": "Vinnige Aksies",
+        "add_expense": "Voeg Uitgawe By",
+        "update_debt": "Opdateer Skuld",
+        "view_budget": "Sien Begroting",
+        "emergency_sos": "Nood SOS"
+    },
+    "steps": {
+        "1": {
+            "title": "Welkom by Jou Nuwe Lewe",
+            "subtitle": "Jy het amptelik die bloeding gestop. Vandag is die dag wat jy ophou om 'n slagoffer van skuld te wees en sy meester begin word.",
+            "badge": "MISSIE BEGIN"
+        },
+        "2": {
+            "title": "Die R.E.S.E.T. Kode",
+            "subtitle": "Ons strategie is gebou op 5 pilare. Leer hulle, leef hulle, en jy sal nooit weer bankrot wees nie.",
+            "pillar_r": "Erken die lekke",
+            "pillar_e": "Elimineer giftige skuld",
+            "pillar_s": "Strategiseer kontantvloei",
+            "pillar_e2": "Voer mikro-missies uit",
+            "pillar_t": "Transformeer jou DNA"
+        },
+        "3": {
+            "title": "Die 90-Dae Tydlyn",
+            "subtitle": "13 weke van taktiese missies. Ons 'hoop' nie net vir vryheid nie; ons ontwerp dit.",
+            "week_1_4": "Die X-straal & Stabilisering",
+            "week_5_8": "Die Skuld Sniper Offensief",
+            "week_9_12": "Bou aan Rykdom Fondasie",
+            "week_13": "Die Nuwe Finansiële Identiteit"
+        },
+        "4": {
+            "title": "Jy Is Nie Alleen Nie",
+            "subtitle": "Sluit aan by 2,800+ Suid-Afrikaners wat tans dieselfde missies uitvoer. Ons styg saam op.",
+            "stat_users": "2,842 Aktiewe Lede",
+            "stat_debt": "R12.5M Skuld Uitgewis"
+        },
+        "5": {
+            "title": "Jou Eerste Missie",
+            "subtitle": "Voordat ons die skuld kan doodmaak, moet ons uitvind presies waar dit skuil. Is jy gereed?",
+            "cta": "BEGIN FINANSIËLE X-STRAAL"
+        }
+    },
+    "skip": "Slaan oor",
+    "next": "Gaan Voort",
+    "finish": "Kom Ons Gaan!",
+    "x_ray": {
+        "title": "Finansiële X-Straal",
+        "income": {
+            "title": "Maandelikse Inkomste",
+            "subtitle": "Kom ons begin met wat inkom.",
+            "primary": "Netto Salaris",
+            "additional": "Ekstra Inkomste",
+            "total": "Totale Maandeliks"
+        },
+        "expenses": {
+            "title": "Vaste Uitgawes",
+            "subtitle": "Net die noodsaaklike om te oorleef.",
+            "total_out": "Totale Uitgawes",
+            "difference": "Kontantvloei"
+        },
+        "debts": {
+            "title": "Skuld Inventaris",
+            "subtitle": "Lys al jou vyande.",
+            "name_placeholder": "bv: Capitec Kredietkaart",
+            "balance": "Saldo Verskuldig",
+            "rate": "Rente (%)",
+            "min_payment": "Min. Betaling",
+            "total_owed": "Totale Skuld"
+        },
+        "summary": {
+            "title": "X-Straal Resultaat",
+            "subtitle": "Die waarheid maak seer, maar maak vry.",
+            "analyzing": "Analiseer tans...",
+            "finish_cta": "Sien Diagnose",
+            "complete_title": "X-Straal Voltooi",
+            "complete_subtitle": "Jou werklike maandelikse kontantvloei is:",
+            "good_news": "Die Uitspraak",
+            "good_news_surplus": "Jy het 'n oorskot! Ons kan dit gebruik om skuld aan te val.",
+            "good_news_deficit": "Jy bloei geld. Ons moet dit ONMIDDELLIK stop.",
+            "next_step": "Volgende Stap",
+            "next_step_desc": "Die 'Skuld Skerpskutter' strategie word bereken gebaseer op jou rentekoerse.",
+            "back_dashboard": "Terug na Hoofbord"
+        }
+    },
+    "debt_sniper": {
+        "title": "Skuld Skerpskutter",
+        "subtitle": "Taktiese eliminasie-enjin. Kies jou wapen.",
+        "strategy": {
+            "title": "Kies jou Strategie",
+            "snowball": "Sneeubal (Kleinste Bedrag)",
+            "avalanche": "Stortvloed (Hoogste Rente)",
+            "snowball_desc": "Vinnige sielkundige oorwinnings deur klein skuld te elimineer.",
+            "avalanche_desc": "Wiskundige optimering wat die meeste rente spaar."
+        },
+        "ladder": {
+            "title": "Prioriteitsleer",
+            "threat": "Huidige Teiken",
+            "next": "Volgende Basis",
+            "secured": "Geëlimineer"
+        },
+        "projection": {
+            "title": "Vryheidsprojeksie",
+            "subtitle": "Bank se Pad vs. Skerpskutter Pad",
+            "bank_path": "Bank se Pad",
+            "sniper_path": "Skerpskutter Pad",
+            "interest_saved": "Rente Gespaar",
+            "time_saved": "Tyd Gespaar"
+        },
+        "scripts": {
+            "title": "Onderhandelingskripte",
+            "subtitle": "Gebruik hierdie modelle om jou koerse vandag te verlaag.",
+            "copy": "Kopieer",
+            "copied": "Gekopieer!"
+        }
+    },
+    "summary": {
+        "title": "Maandelikse Taktiese Opsomming",
+        "savings_projection": "Geprojekteerde Maandelikse Besparing"
+    },
+    "journey": {
+        "title": "Die 90-Dae Reset",
+        "subtitle": "13 Weke van taktiese missies om jou lewe terug te eis.",
+        "weeks": {
+            "1": {
+                "title": "Stabilisering",
+                "theme": "Stop die Bloeding",
+                "description": "Hierdie week vind ons die lekke en stabiliseer jou kontantvloei. Geen meer verrassings nie.",
+                "checklist": [
+                    "Voltooi Finansiële X-straal",
+                    "Identifiseer 3 onnodige subskripsies",
+                    "Stel CashFlow OS koeverte op"
+                ]
+            },
+            "2": {
+                "title": "Die Oorlewingsbuffer",
+                "theme": "Bou die Muur",
+                "description": "Jy het 'n noodfonds van R1,000 nodig voordat ons skuld begin doodmaak.",
+                "checklist": [
+                    "Spaar jou eerste R1,000 buffer",
+                    "Skuif buffer na 'n aparte rekening",
+                    "Noem die rekening 'Die Vredesfonds'"
+                ]
+            },
+            "3": {
+                "title": "Die Hongerspele",
+                "theme": "Aggressiewe Snyding",
+                "description": "Tydelike ongemak vir permanente vryheid. Ons sny alles behalwe die noodsaaklikhede.",
+                "checklist": [
+                    "Geen uitete vir 7 dae nie",
+                    "Audit kruidenierswarelys (Slegs generiese handelsmerke)",
+                    "Identifiseer R300 om na skuld te herlei"
+                ]
+            },
+            "4": {
+                "title": "Skuldinventaris",
+                "theme": "Face die Musiek",
+                "description": "Totale deursigtigheid. Ons lys elke sent wat jy aan enigiemand skuld.",
+                "checklist": [
+                    "Verifieer alle skuldbalanse",
+                    "Lys alle rentekoerse",
+                    "Sorteer volgens Sniper Prioriteit"
+                ]
+            },
+            "5": {
+                "title": "Taktiese Sniper Opstelling",
+                "theme": "Gevegstrategie",
+                "description": "Kies jou wapen: Sneeubal vir oorwinning, of Avalanche vir wiskunde.",
+                "checklist": [
+                    "Kies Skuld Sniper Strategie",
+                    "Outomatiseer minimum betalings",
+                    "Bereken eerste 'Sniper Shot'"
+                ]
+            },
+            "6": {
+                "title": "Die Krediteur-oproep",
+                "theme": "Onderhandeling",
+                "description": "Ons neem die mag terug. Ons bel hulle en verlaag die koerse.",
+                "checklist": [
+                    "Bel hoofkrediteur",
+                    "Versoek rentekoersverlaging",
+                    "Vra vir kwytskelding van laatgelde"
+                ]
+            },
+            "7": {
+                "title": "Die Eerste Kill",
+                "theme": "Eerste Bloed",
+                "description": "Die oomblik wat dit werklik word. Om 'n balans op nul te sien.",
+                "checklist": [
+                    "Voer ekstra betaling uit",
+                    "Sluit die eerste rekening",
+                    "Vier die wen (R0 viering)"
+                ]
+            },
+            "8": {
+                "title": "Bou aan Snelheid",
+                "theme": "Die Roll-Over",
+                "description": "Moenie die ekstra geld spandeer nie. Rol dit oor na die volgende teiken.",
+                "checklist": [
+                    "Identifiseer 'Killed Payment' bedrag",
+                    "Herlei na 'Volgende Basis' skuld",
+                    "Meld die opgedateerde tydlyn aan"
+                ]
+            },
+            "9": {
+                "title": "Byverdienste Sprint",
+                "theme": "Ammo Generasie",
+                "description": "Versnel die datum van skuldvryheid deur meer ammo in te bring.",
+                "checklist": [
+                    "Vind 3 items om aanlyn te verkoop",
+                    "Voer 1 ekstra inkomste-taak uit",
+                    "Voeg 'Ammo' by Sniper Shot"
+                ]
+            },
+            "10": {
+                "title": "Verhoudingsherstel",
+                "theme": "Die Tuisfront",
+                "description": "Geldstres vernietig huwelike. Ons bou 'n gesamentlike front.",
+                "checklist": [
+                    "Hou 'n 'Droomsessie' saam met jou maat",
+                    "Stel 'n gesamentlike finansiële doelwit",
+                    "Deel die Sniper vordering"
+                ]
+            },
+            "11": {
+                "title": "Psigologie van Rykdom",
+                "theme": "Mindset Verskuiwing",
+                "description": "Hoekom het jy in die skuld beland? Ons korrigeer die oorsaak.",
+                "checklist": [
+                    "Identifiseer jou 'Geld Trigger'",
+                    "Skep 'n waglys vir spandering",
+                    "Reflekteer oor 'Identiteit bo Ikone'"
+                ]
+            },
+            "12": {
+                "title": "Nalatenskap Beplanning",
+                "theme": "Beyond Skuld",
+                "description": "Wanneer die skuld weg is, waarheen gaan die geld?",
+                "checklist": [
+                    "Beplan eerste beleggingsdoelwit",
+                    "Bereken netto waarde groei",
+                    "Stel jou 'Finansiële Testament' op"
+                ]
+            },
+            "13": {
+                "title": "Die Nuwe Identiteit",
+                "theme": "Graduering",
+                "description": "Jy is nie meer 'n persoon in skuld nie. Jy is 'n Meester van Kontantvloei.",
+                "checklist": [
+                    "Finaliseer 90-dae hersiening",
+                    "Stel 'Fase 2' rykdomdoelwitte",
+                    "Deel sukses met die gemeenskap"
+                ]
+            }
+        },
+        "stats": {
+            "current_week": "Huidige Week",
+            "missions_done": "Missies Uitgevoer",
+            "badges": "Kentekens Verwerf"
+        }
+    },
+    "expenses": {
+        "title": "Uitgawe Spoorsnyer",
+        "subtitle": "Spoor elke Rand na. Beheer jou toekoms.",
+        "stats": {
+            "today": "Vandag se Spandering",
+            "month": "Hierdie Maand",
+            "transactions": "Transaksies"
+        },
+        "search_placeholder": "Soek uitgawes...",
+        "filters": {
+            "all_categories": "Alle Kategorieë",
+            "food": "Kos & Eetplek",
+            "transport": "Vervoer",
+            "housing": "Behuising",
+            "utilities": "Nutsdienste",
+            "entertainment": "Vermaak",
+            "shopping": "Inkopies",
+            "healthcare": "Gesondheidsorg",
+            "other": "Ander"
+        },
+        "list": {
+            "empty_title": "Geen uitgawes gevind nie",
+            "empty_subtitle": "Begin nou jou besteding naspoor!",
+            "date_today": "Vandag",
+            "date_yesterday": "Gister"
+        },
+        "add_modal": {
+            "title": "Voeg Uitgawe By",
+            "amount_label": "Bedrag (R)",
+            "category_label": "Kategorie",
+            "description_label": "Beskrywing (Opsioneel)",
+            "description_placeholder": "bv: Middagete by kafee",
+            "cancel_btn": "Kanselleer",
+            "submit_btn": "Voeg By",
+            "submitting_btn": "Besig..."
+        }
+    },
+    "quiz": {
+        "question": "Vraag",
+        "secure": "Hierdie verbinding is veilig en anoniem",
+        "analyzing": {
+            "title": "Ontleed Jou Finansiële Profiel...",
+            "subtitle": "Vergelyk jou situasie met 2,847 suksesvolle herstelgevalle."
+        },
+        "questions": {
+            "debt_amount": {
+                "question": "Hoeveel skuld druk tans op jou skouers?",
+                "options": {
+                    "opt1": "Dit is hanteerbaar (Onder R10,000)",
+                    "opt2": "Dit raak swaar (R10k - R50k)",
+                    "opt3": "Dit versmoor my (R50k - R200k)",
+                    "opt4": "Ek het tel verloor (> R200,000)"
+                }
+            },
+            "monthly_status": {
+                "question": "Watter stelling beskryf jou maandeinde realiteit die beste?",
+                "options": {
+                    "opt1": "Ek spaar elke maand geld",
+                    "opt2": "Ek breek gelyk (Nul balans)",
+                    "opt3": "Ek is elke maand kort",
+                    "opt4": "Ek leen meer net om te oorleef"
+                }
+            },
+            "sleep_quality": {
+                "question": "Hoe beïnvloed hierdie finansiële stres jou slaap?",
+                "options": {
+                    "opt1": "Ek slaap soos 'n baba",
+                    "opt2": "Ek word soms bekommerd wakker",
+                    "opt3": "Ek het gereeld slapeloosheid",
+                    "opt4": "Ek het paniekaanvalle / Nagmerries"
+                }
+            },
+            "collection_status": {
+                "question": "Jaag skuldinvorderaars jou tans?",
+                "options": {
+                    "opt1": "Nee, alles is betaal",
+                    "opt2": "Af en toe herinneringe",
+                    "opt3": "Konstante teistering oproepe",
+                    "opt4": "Regsdreigemente / Aanmaningsbriewe"
+                }
+            },
+            "relationship_impact": {
+                "question": "Hoe beïnvloed dit jou naaste verhoudings?",
+                "options": {
+                    "opt1": "Glad nie",
+                    "opt2": "'n Bietjie spanning",
+                    "opt3": "Ons baklei gedurig oor geld",
+                    "opt4": "Dit skeur my gesin uitmekaar"
+                }
+            },
+            "emotional_state": {
+                "question": "Wanneer jy aan jou geld dink, wat voel jy?",
+                "options": {
+                    "opt1": "Hoopvol en in beheer",
+                    "opt2": "Angstig maar bestuur dit",
+                    "opt3": "Skuldig en skaam",
+                    "opt4": "Verlam deur vrees"
+                }
+            },
+            "past_attempts": {
+                "question": "Wat het jy al probeer om dit reg te stel?",
+                "options": {
+                    "opt1": "Nog niks, hierdie is my eerste stap",
+                    "opt2": "Apps en sigblaaie probeer",
+                    "opt3": "Konsolidasielening probeer (het nie gewerk nie)",
+                    "opt4": "Skuldhersiening probeer (was spyt daaroor)"
+                }
+            },
+            "primary_goal": {
+                "question": "As jy 'n towerstaf kon swaai, wat sou jy die graagste wou hê?",
+                "options": {
+                    "opt1": "Net om weer rustig te slaap",
+                    "opt2": "Om behoorlik vir my gesin te sorg",
+                    "opt3": "Om te reis en die lewe te geniet",
+                    "opt4": "Ek wil 'n nalaatenskap los, nie skuld nie"
+                }
+            }
+        }
+    },
+    "results": {
+        "ready": "Jou Ontleding is Voltooi",
+        "score_title": "Finansiële Oorlewingspunt",
+        "zones": {
+            "critical": "KRITIEKE GEVAAR",
+            "warning": "HOË RISIKO",
+            "safe": "STABIEL"
+        },
+        "analysis": {
+            "critical": "Jy verdrink tans. Jou finansiële trajek dui op totale ineenstorting binne 6-12 maande as niks verander nie. Dit gaan nie oor 'bietjie meer spaar' nie - jy het 'n volledige stelsel 'reset' nodig.",
+            "warning": "Jy leef op die randjie. Een onverwagte uitgawe kan jou in 'n skuldspiraal druk. Jy werk hard, maar bou iemand anders se rykdom, nie joune nie.",
+            "safe": "Jy het 'n fondasie, maar jy optimaliseer nie. Jy kan rykdom baie vinniger bou as jy die voortslepende ondoeltreffendhede uitskakel."
+        },
+        "projection": {
+            "title": "Jou 5-Jaar Vooruitskatting",
+            "subtitle": "Gebaseer op jou huidige gewoontes vs. Die R.E.S.E.T. Metode",
+            "current_path": "Huidige Pad: R-250,000 netto waarde",
+            "reset_path": "R.E.S.E.T. Pad: R+1.2M netto waarde"
+        },
+        "cta": {
+            "main": "SIEN HOE OM DIT IN 90 DAE REG TE STEL",
+            "sub": "Kry jou persoonlike padkaart",
+            "button": "ONTSLUIT MY REDDINGSPLAN"
+        }
+    },
+    "sales": {
+        "hero": {
+            "badge": "⚠ HOË PRIORITEIT INGRESYP",
+            "headline_start": "DIT IS TYD OM",
+            "headline_end": "DIE BLOEDING TE STOP.",
+            "subheadline": "Jy het jou telling gesien. Jy ken die waarheid. Kom ons praat oor die <bold>enigste uitweg</bold> wat nie bankrotskap of die verlies van jou waardigheid behels nie.",
+            "cta": "WYS MY DIE REDDINGSPLAN ↓"
+        },
+        "problem": {
+            "title": "DIE OU MANIER (MISLUKKING)",
+            "items": {
+                "1": "Probeer 'begroot' sonder geld",
+                "2": "Konsolidasielennings (meer skuld)",
+                "3": "Ignoreer oproepe en hoop dit gaan weg",
+                "4": "Depressie > Angs > Verlamming siklus"
+            }
+        },
+        "solution": {
+            "title": "DIE R.E.S.E.T. METODE",
+            "items": {
+                "1": "<b>R</b>ecognize (Erken) die lekke onmiddellik",
+                "2": "<b>E</b>liminate (Elimineer) giftige skuld stelselmatig",
+                "3": "<b>S</b>trategize (Strategiseer) streng vir kontantvloei",
+                "4": "<b>E</b>xecute (Voer uit) daaglikse mikro-missies",
+                "5": "<b>T</b>ransform (Transformeer) jou finansiële DNA"
+            }
+        },
+        "offer": {
+            "title": "DIE 90-DAE VRYHEID PROTOKOL",
+            "cards": {
+                "1": {
+                    "title": "Finansiële X-Straal",
+                    "desc": "Sien presies waar elke sent heen gaan in 15 min."
+                },
+                "2": {
+                    "title": "Skuld Sniper",
+                    "desc": "'n Wiskundige strategie om rentekoerse dood te maak."
+                },
+                "3": {
+                    "title": "Kontantvloei OS",
+                    "desc": "Outomatiseer jou oorlewing sodat jy kan slaap."
+                }
+            }
+        },
+        "pricing": {
+            "limited": "BEPERKTE TYD AANBOD",
+            "original": "R 997.00",
+            "price": "R 247",
+            "cents": ".00",
+            "lifetime": "Eenmalige betaling. Lewenslange toegang.",
+            "cta": "SLUIT NOU AAN BY DIE PROTOKOL",
+            "guarantee": "30-Dae Geld-Terug Waarborg"
+        },
+        "testimonials": {
+            "title": "VAN VERDRINK NA FLOREREND",
+            "subtitle": "Resultate van Suid-Afrikaners.",
+            "verified": "Geverifieerde Aankoop",
+            "items": {
+                "1": {
+                    "text": "Ek was skepties want ek het skuldhersiening probeer en dit het my lewe verwoes. Hierdie is anders. Dit is nie 'n regsproses nie, dit is 'n wiskunde strategie. Ek het my Woolies kaart in maand 2 doodgemaak.",
+                    "author": "Thabo M.",
+                    "role": "Johannesburg, SA",
+                    "rating": 5
+                },
+                "2": {
+                    "text": "Eerlike terugvoer: Die eerste week is brutaal. Jy besef hoeveel geld jy mors. Maar sodra die 'Skuld Sniper' metode inskop, raak dit verslawend om die syfers te sien daal. 4.8/5.",
+                    "author": "Bongani Z.",
+                    "role": "Pretoria, SA",
+                    "rating": 4
+                },
+                "3": {
+                    "text": "My man wou dit nie doen nie. Ek het dit in elk geval gekoop. Gisteraand het ons vir 8 uur aaneen geslaap vir die eerste keer in jare. Die gemoedsrus is 10x die prys werd.",
+                    "author": "Lerato K.",
+                    "role": "Kaapstad, SA",
+                    "rating": 5
+                }
+            }
+        },
+        "faq": {
+            "title": "GEREELDE VRAE",
+            "items": {
+                "1": {
+                    "q": "Werk dit as ek onder skuldhersiening is?",
+                    "a": "Ja. Die kontantvloei strategieë geld ongeag jou wetlike status. Jy het oorlewingsvaardighede nodig."
+                },
+                "2": {
+                    "q": "Hoeveel tyd neem dit?",
+                    "a": "15 minute per dag. As jy nie 15 minute het om jou lewe te red nie, het jy groter probleme."
+                },
+                "3": {
+                    "q": "Is daar 'n waarborg?",
+                    "a": "Ja. 30 dae. As jy die werk doen en nie resultate sien nie, betaal ek jou terug."
+                },
+                "4": {
+                    "q": "Kan ek dit op my foon gebruik?",
+                    "a": "Ja. Die hele platform is 100% selfoon-vriendelik sodat jy dit enige plek kan gebruik."
+                },
+                "5": {
+                    "q": "Benodig julle my bankbesonderhede?",
+                    "a": "Nee. Ons vra nooit vir jou bankrekeningnommers of wagwoorde nie. Jou privaatheid kom eerste."
+                },
+                "6": {
+                    "q": "Wat as ek vasgevang raak?",
+                    "a": "Ons het 'n toegewyde ondersteuningspan beskikbaar via e-pos en WhatsApp om jou te lei."
+                }
+            }
+        },
+        "footer": "Hierdie is nie 'n 'word vinnig ryk' skema nie. Hierdie is harde werk. Maar dit werk as jy dit werk.",
+        "popup": {
+            "title": "WAG! Moenie Met Leë Hande Loop Nie",
+            "subtitle": "Kry die eerste hoofstuk van die Skuld Vryheid Protokol heeltemal GRATIS.",
+            "placeholder": "Voer jou e-posadres in",
+            "cta": "STUUR VIR MY DIE GRATIS HOOFSTUK",
+            "close": "Nee dankie, ek verkies om in die skuld te bly."
+        },
+        "widget": {
+            "tooltip": "Gesels met 'n kenner"
+        },
+        "vsl": {
+            "title": "Kyk Hoe Thabo Skuldvry Geraak Het in 90 Dae",
+            "subtitle": "Gevallestudie: Van R200k skuld na finansiële vryheid.",
+            "warning": "Hierdie video sal binnekort verwyder word."
+        },
+        "notifications": {
+            "purchased": "het Skuld Vryheid Protokol gekoop",
+            "minutes_ago": "minute gelede"
+        }
+    },
+    "sos": {
+        "title": "Finansiële SOS",
+        "subtitle": "Wanneer jou huis aan die brand is, herversier jy nie. Jy blus die vlamme.",
+        "warning": {
+            "title": "Slegs vir finansiële noodgevalle",
+            "list": {
+                "rent": "Kan nie huur/verband betaal nie",
+                "utilities": "Dienste gaan afgesny word",
+                "medical": "Mediese noodgeval sonder fondse",
+                "job": "Werk verloor",
+                "collectors": "Skuldinvorderaars bel"
+            }
+        },
+        "start_btn": "Begin Nood Triage",
+        "disclaimer": "Hierdie is nie professionele finansiële advies nie. In ernstige krisisse, raadpleeg 'n geregistreerde skuldberader.",
+        "triage": {
+            "title": "Nood Triage",
+            "subtitle": "Antwoord hierdie vrae sodat ons jou kan help prioritiseer.",
+            "submit_btn": "Kry Nood Aksieplan",
+            "q1": {
+                "title": "Wat is die noodgeval?",
+                "options": {
+                    "rent": "Huur/Verband agterstallig",
+                    "utilities": "Dienste afgesny",
+                    "medical": "Mediese noodgeval",
+                    "job_loss": "Werk verloor",
+                    "transport": "Geen vervoer",
+                    "debt_collectors": "Skuldinvorderaars",
+                    "other": "Ander krisis"
+                }
+            },
+            "q2": {
+                "title": "Hoeveel dae tot jy gevolge in die gesig staar?",
+                "options": {
+                    "today": "Vandag/Môre",
+                    "days_3_7": "3-7 dae",
+                    "weeks_1_2": "1-2 weke",
+                    "weeks_2_plus": "2+ weke"
+                }
+            },
+            "q3": {
+                "title": "Het jy ENIGE geld nou?",
+                "options": {
+                    "zero": "R0",
+                    "minimal": "R1-100",
+                    "low": "R100-500",
+                    "moderate": "R500+"
+                }
+            }
+        },
+        "plan": {
+            "urgency": {
+                "critical": "KRITIEKE NOODGEVAL",
+                "urgent": "DRINGENDE SITUASIE",
+                "high": "HOË PRIORITEIT",
+                "important": "BELANGRIK"
+            },
+            "action_msg": {
+                "today": "Jy moet VANDAG optree.",
+                "days_few": "Jy het 'n paar dae. Tree vinnig op.",
+                "days_plan": "Jy het tyd om te beplan, maar moenie wag nie."
+            },
+            "priority": {
+                "title": "Wat om EERSTE te betaal (Oorlewing)",
+                "tier_1": {
+                    "title": "Vlak 1: Betaal Eerste",
+                    "items": [
+                        "✓ Kos (die minimum)",
+                        "✓ Skuiling (huur/verband)",
+                        "✓ Kritieke medisyne",
+                        "✓ Water en elektrisiteit"
+                    ]
+                },
+                "tier_2": {
+                    "title": "Vlak 2: Betaal indien Moontlik",
+                    "items": [
+                        "✓ Vervoer na werk",
+                        "✓ Telefoon (om werk te soek)",
+                        "✓ Kindersorg"
+                    ]
+                },
+                "tier_3": {
+                    "title": "Vlak 3: Onderhandel/Stel Uit",
+                    "items": [
+                        "• Kredietkaarte",
+                        "• Persoonlike lenings",
+                        "• Winkelrekeninge"
+                    ]
+                },
+                "tier_4": {
+                    "title": "Vlak 4: Ignoreer vir Eers",
+                    "items": [
+                        "• Subskripsies",
+                        "• Vermaak",
+                        "• Nie-noodsaaklikhede"
+                    ]
+                }
+            },
+            "scripts": {
+                "title": "Onderhandelingskripte",
+                "tips_label": "Wenke:",
+                "more_link": "Meer skripte beskikbaar in die volledige pakket.",
+                "rent": {
+                    "title": "Huur Betalingsplan",
+                    "script": "Hallo [Naam], ek bel in verband met my huur...",
+                    "tips": [
+                        "Wees eerlik",
+                        "Bied iets aan",
+                        "Vra skriftelik"
+                    ]
+                },
+                "utilities": {
+                    "title": "Dienste Uitstel Versoek",
+                    "script": "Ek is 'n kliënt by rekening [Nommer]...",
+                    "tips": [
+                        "Bel voor afsny",
+                        "Verduidelik situasie"
+                    ]
+                }
+            },
+            "income": {
+                "title": "Vinnige Inkomste Idees (24-72h)",
+                "ideas": {
+                    "sell": {
+                        "title": "Verkoop Items",
+                        "earnings": "R500-5000",
+                        "time": "24h",
+                        "platform": "Gumtree, Facebook"
+                    },
+                    "delivery": {
+                        "title": "Aflewerings",
+                        "earnings": "R200/dag",
+                        "time": "Onmiddellik",
+                        "platform": "Mr D Food / Uber Eats"
+                    },
+                    "jobs": {
+                        "title": "Los Werkies",
+                        "earnings": "R100-1000",
+                        "time": "1-3 dae",
+                        "platform": "Plaaslike Groepe"
+                    }
+                }
+            },
+            "community": {
+                "title": "Gemeenskapshulpbronne",
+                "resources": {
+                    "sassa": {
+                        "title": "SASSA",
+                        "desc": "Maatskaplike toelae"
+                    },
+                    "ncr": {
+                        "title": "Skuldberading",
+                        "desc": "Gratis hulp (NCR)"
+                    },
+                    "mental": {
+                        "title": "Geestesgesondheid",
+                        "desc": "24h Ondersteuning"
+                    }
+                }
+            }
+        }
+    }
+}

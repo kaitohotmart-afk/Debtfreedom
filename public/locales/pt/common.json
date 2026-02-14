@@ -1,0 +1,1044 @@
+{
+    "landing": {
+        "hero": {
+            "headline": "Cansado de Trabalhar Duro e Continuar Quebrado?",
+            "subheadline": "Se você está se afogando em dívidas, vivendo de salário em salário e com medo da próxima data de vencimento... este pode ser seu ponto de virada financeiro.",
+            "cta": "EU QUERO MINHA LIBERDADE DE VOLTA"
+        },
+        "languageSelector": {
+            "title": "Escolha seu idioma",
+            "subtitle": "Selecione seu idioma preferido para continuar"
+        },
+        "painPoints": {
+            "title": "Você Conhece Esta Dor Muito Bem...",
+            "points": [
+                "Aquele sorriso forçado quando amigos te convidam e você inventa uma desculpa",
+                "Aquela mentira que você conta para a família sobre 'está tudo sob controle'",
+                "Aquela sensação de afundamento quando você verifica seu extrato",
+                "Aquela vergonha que você sente de si mesmo",
+                "Noites sem dormir preocupado com a próxima conta",
+                "O estresse constante que está destruindo sua saúde",
+                "Sentir-se preso sem saída"
+            ]
+        },
+        "cta": {
+            "main": "DESCUBRA SE AINDA HÁ ESPERANÇA PARA VOCÊ",
+            "subtitle": "Faça a Avaliação de Sobrevivência Financeira de 2 minutos",
+            "quiz": "INICIAR AVALIAÇÃO GRATUITA"
+        }
+    },
+    "common": {
+        "next": "Próximo",
+        "back": "Voltar",
+        "finish": "Finalizar",
+        "loading": "Carregando...",
+        "error": "Ocorreu um erro. Tente novamente.",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "logout": "Sair",
+        "nav": {
+            "dashboard": "Dashboard",
+            "x_ray": "Raio-X Financeiro",
+            "debt": "Sniper de Dívidas",
+            "budget": "Sistema de Orçamento",
+            "journey": "Jornada de 90 Dias",
+            "expenses": "Rastreador de Despesas",
+            "sos": "SOS de Emergência",
+            "community": "Comunidade e Suporte"
+        }
+    },
+    "auth": {
+        "signup": {
+            "title": "Crie Sua Conta",
+            "subtitle": "Comece sua jornada para a liberdade financeira",
+            "full_name": "Nome Completo",
+            "full_name_placeholder": "Digite seu nome completo",
+            "email": "Endereço de Email",
+            "email_placeholder": "voce@exemplo.com",
+            "password": "Senha",
+            "password_placeholder": "Crie uma senha forte",
+            "password_length": "Pelo menos 8 caracteres",
+            "password_uppercase": "Uma letra maiúscula",
+            "password_number": "Um número",
+            "terms_prefix": "Concordo com os",
+            "terms_link": "Termos de Serviço",
+            "terms_and": "e",
+            "privacy_link": "Política de Privacidade",
+            "submit": "Criar Conta",
+            "already_have_account": "Já tem uma conta?",
+            "signin_link": "Entrar"
+        },
+        "signin": {
+            "title": "Bem-Vindo de Volta",
+            "subtitle": "Continue seu caminho para a liberdade",
+            "email": "Endereço de Email",
+            "email_placeholder": "voce@exemplo.com",
+            "password": "Senha",
+            "password_placeholder": "Digite sua senha",
+            "forgot_password": "Esqueceu a senha?",
+            "submit": "Entrar",
+            "no_account": "Não tem uma conta?",
+            "signup_link": "Criar Conta"
+        },
+        "errors": {
+            "terms_required": "Você deve concordar com os Termos de Serviço",
+            "weak_password": "A senha não atende aos requisitos"
+        }
+    },
+    "checkout": {
+        "title": "Finalize Sua Compra",
+        "subtitle": "Pagamento único. Acesso vitalício.",
+        "order_summary": "O Que Você Receberá",
+        "feature_1": "Programa de 90 Dias",
+        "feature_1_desc": "Sistema completo método R.E.S.E.T.",
+        "feature_2": "Ferramentas Raio-X Financeiro",
+        "feature_2_desc": "Rastreie e elimine dívidas sistematicamente",
+        "feature_3": "Acesso Vitalício",
+        "feature_3_desc": "Sem assinaturas. Pague uma vez, use para sempre.",
+        "subtotal": "Preço Normal",
+        "total": "Somente Hoje",
+        "one_time": "Pagamento único • Sem cobranças recorrentes",
+        "guarantee_title": "Garantia de 30 Dias",
+        "guarantee_text": "Se não estiver satisfeito, devolvemos seu dinheiro. Sem perguntas.",
+        "payment_details": "Método de Pagamento",
+        "account": "Conta",
+        "pay_now": "Finalizar Pagamento",
+        "secure_payment": "Pagamento Criptografado SSL",
+        "data_protected": "Seus dados estão protegidos",
+        "email_notice": "Importante: Use o mesmo e-mail durante o pagamento para garantir acesso instantâneo.",
+        "need_help": "Precisa de ajuda?",
+        "contact_us": "Fale conosco"
+    },
+    "thanks": {
+        "verifying_title": "Verificando seu Pagamento...",
+        "verifying_subtitle": "Isso deve levar apenas alguns segundos. Estamos configurando seu acesso de elite.",
+        "success_title": "Bem-vindo à Liberdade",
+        "success_subtitle": "Seu pagamento foi confirmado. O reset de 90 dias começa agora.",
+        "welcome_badge": "Membro Elite",
+        "next_steps_title": "O Que Acontece Agora?",
+        "next_steps": "Sua conta está ativa. Você já pode acessar seu dashboard personalizado e começar sua primeira missão.",
+        "cta": "Ir para o Dashboard",
+        "timeout_title": "Quase lá...",
+        "timeout_subtitle": "Ainda estamos aguardando a confirmação do pagamento. Você pode tentar acessar o dashboard diretamente.",
+        "check_manually": "Acessar Dashboard Mesmo Assim"
+    },
+    "community": {
+        "title": "Comunidade e Suporte",
+        "subtitle": "Você não está sozinho. Conecte-se, aprenda e cresça com outros na mesma jornada.",
+        "tabs": {
+            "stories": "Histórias de Sucesso",
+            "resources": "Biblioteca de Recursos",
+            "chat": "Suporte WhatsApp",
+            "guidelines": "Diretrizes"
+        }
+    },
+    "dashboard": {
+        "welcome_msg": "A jornada de 90 dias para sua vida livre de dívidas começou hoje.",
+        "score": {
+            "title": "Pontuação de Sobrevivência Financeira",
+            "desc": "Complete seu Raio-X para ativar a análise",
+            "calculated": "Melhorando semanalmente",
+            "not_calculated": "Não Calculado"
+        },
+        "budget_system": {
+            "title": "Sistema de Orçamento",
+            "subtitle": "Dê uma função a cada Rand. Planeje seus gastos antes do mês começar.",
+            "actions": {
+                "view_history": "Ver Histórico",
+                "add_expense": "Adicionar Despesa"
+            },
+            "envelopes": {
+                "empty": "Nenhum envelope criado ainda",
+                "init_cta": "Criar Seu Primeiro Envelope"
+            }
+        },
+        "progress": {
+            "title": "Progresso da Jornada",
+            "day": "Dia",
+            "of": "de"
+        },
+        "streak": {
+            "days": "Dias",
+            "title": "de Sequência"
+        },
+        "mission": {
+            "week": "Semana",
+            "action_required": "Ação Necessária",
+            "mission_01": "Completar Raio-X Financeiro",
+            "mission_02": "Executar Sniper de Dívidas"
+        },
+        "quick_actions": {
+            "title": "Ações Rápidas",
+            "add_expense": "Adicionar Despesa",
+            "update_debt": "Atualizar Dívida",
+            "view_budget": "Ver Orçamento",
+            "emergency_sos": "SOS de Emergência"
+        },
+        "debt_card": {
+            "title": "Dívida em Ataque",
+            "subtitle": "Alvo estratégico",
+            "empty": "Nenhuma dívida ativa encontrada"
+        },
+        "journey": {
+            "title": "Jornada de 90 Dias",
+            "subtitle": "Seu roteiro semana a semana para a liberdade financeira total.",
+            "stats": {
+                "current_week": "Semana Atual",
+                "badges": "Distintivos Ganhos"
+            },
+            "weeks": {
+                "1": {
+                    "title": "O Despertar",
+                    "theme": "Consciência",
+                    "description": "Estanque o sangramento. Entenda exatamente para onde vai cada centavo.",
+                    "checklist": [
+                        "Completar Raio-X Financeiro",
+                        "Rastrear cada despesa por 7 dias",
+                        "Congelar cartões de crédito",
+                        "Dia Sem Gastos"
+                    ]
+                },
+                "2": {
+                    "title": "O Expurgo",
+                    "theme": "Minimalismo",
+                    "description": "Venda o que não precisa. Cancele assinaturas. Corte a gordura.",
+                    "checklist": [
+                        "Auditar assinaturas",
+                        "Vender 3 itens",
+                        "Negociar uma conta",
+                        "Baixar conta de mercado em 10%"
+                    ]
+                },
+                "3": {
+                    "title": "Fundo de Segurança",
+                    "theme": "Segurança",
+                    "description": "Crie seu fundo de emergência inicial. R2.000 a R5.000 em dinheiro.",
+                    "checklist": [
+                        "Abrir conta poupança separada",
+                        "Vender mais itens",
+                        "Fim de semana de renda extra",
+                        "Atingir meta de R2.000"
+                    ]
+                },
+                "4": {
+                    "title": "Cirurgia Plástica",
+                    "theme": "Compromisso",
+                    "description": "Corte os cartões de crédito. Feche as contas. Sem volta.",
+                    "checklist": [
+                        "Cortar cartões fisicamente",
+                        "Ligar para banco cancelar contas",
+                        "Remover cartões salvos online",
+                        "Celebrar a liberdade"
+                    ]
+                },
+                "5": {
+                    "title": "Estratégia Sniper",
+                    "theme": "Foco",
+                    "description": "Liste dívidas da menor para a maior. Ataque a menor com tudo.",
+                    "checklist": [
+                        "Listar todas as dívidas",
+                        "Escolher método Bola de Neve",
+                        "Pagar mínimos do resto",
+                        "Jogar dinheiro extra na menor dívida"
+                    ]
+                },
+                "6": {
+                    "title": "Chefe do Orçamento",
+                    "theme": "Controle",
+                    "description": "Refine seu Orçamento Base Zero. Dê uma função a cada Rand.",
+                    "checklist": [
+                        "Revisar gastos do mês passado",
+                        "Ajustar categorias de orçamento",
+                        "Tentar envelopes de dinheiro",
+                        "Planejar despesas irregulares"
+                    ]
+                },
+                "7": {
+                    "title": "Injeção de Renda",
+                    "theme": "Hustle",
+                    "description": "Aumente a pá. Encontre maneiras de ganhar mais dinheiro.",
+                    "checklist": [
+                        "Pedir aumento",
+                        "Começar um bico",
+                        "Vender item de alto valor",
+                        "Trabalhar horas extras"
+                    ]
+                },
+                "8": {
+                    "title": "Ninja da Negociação",
+                    "theme": "Advocacia",
+                    "description": "Baixe seus custos fixos. Seguro, telefone, aluguel.",
+                    "checklist": [
+                        "Ligar para seguradora",
+                        "Baixar plano de telefone",
+                        "Negociar aluguel/academia",
+                        "Comparar taxas bancárias"
+                    ]
+                },
+                "9": {
+                    "title": "Hacker de Hábitos",
+                    "theme": "Disciplina",
+                    "description": "Substitua hábitos caros por gratuitos.",
+                    "checklist": [
+                        "Marmitas no domingo",
+                        "Atividade gratuita no fim de semana",
+                        "Cancelar um streaming",
+                        "Desafio 30 dias sem comer fora"
+                    ]
+                },
+                "10": {
+                    "title": "Destruidor de Dívidas",
+                    "theme": "Impulso",
+                    "description": "Você deve ver progresso. Dobre a aposta.",
+                    "checklist": [
+                        "Atualizar saldos de dívidas",
+                        "Calcular data de quitação",
+                        "Visualizar progresso",
+                        "Compartilhar vitória com comunidade"
+                    ]
+                },
+                "11": {
+                    "title": "Visão de Futuro",
+                    "theme": "Esperança",
+                    "description": "Como é a vida sem dívidas? Sonhe grande.",
+                    "checklist": [
+                        "Escrever declaração de visão",
+                        "Calcular patrimônio líquido",
+                        "Planejar celebração sem dívidas",
+                        "Ler um livro de finanças"
+                    ]
+                },
+                "12": {
+                    "title": "Generosidade",
+                    "theme": "Dar",
+                    "description": "Dinheiro é uma ferramenta para o bem. Mudando sua mentalidade de escassez para abundância.",
+                    "checklist": [
+                        "Doar pequena quantia",
+                        "Ajudar um amigo",
+                        "Pequeno ato de bondade",
+                        "Refletir sobre gratidão"
+                    ]
+                },
+                "13": {
+                    "title": "Liberdade",
+                    "theme": "Vitória",
+                    "description": "A primeira perna da jornada acabou. Isso é só o começo.",
+                    "checklist": [
+                        "Revisar progresso de 90 dias",
+                        "Definir próximas metas",
+                        "Comprometer-se com o longo prazo",
+                        "Celebrar!"
+                    ]
+                }
+            }
+        }
+    },
+    "streak": {
+        "title": "Sequência Ativa",
+        "days": "Dias",
+        "msg": "Mantenha o ritmo!"
+    },
+    "mission": {
+        "title": "Missão Atual",
+        "week": "Semana",
+        "action_required": "Primeira Ação Necessária",
+        "mission_01": "Missão 01: Configuração",
+        "mission_02": "Missão 02: Tática"
+    },
+    "quick_actions": {
+        "title": "Ações Rápidas",
+        "add_expense": "Adicionar Despesa",
+        "update_debt": "Atualizar Dívida",
+        "view_budget": "Ver Orçamento",
+        "emergency_sos": "Pânico SOS"
+    },
+    "onboarding": {
+        "steps": {
+            "1": {
+                "title": "Bem-vindo à Sua Nova Vida",
+                "subtitle": "Você parou o sangramento oficialmente. Hoje é o dia em que você deixa de ser vítima da dívida e começa a ser o mestre dela.",
+                "badge": "MISSÃO INICIAL"
+            },
+            "2": {
+                "title": "O Código R.E.S.E.T.",
+                "subtitle": "Nossa estratégia é construída sobre 5 pilares. Aprenda-os, viva-os, e você nunca mais ficará quebrado.",
+                "pillar_r": "Reconhecer os vazamentos",
+                "pillar_e": "Eliminar dívida tóxica",
+                "pillar_s": "Estrategizar fluxo de caixa",
+                "pillar_e2": "Executar micro-missões",
+                "pillar_t": "Transformar seu DNA"
+            },
+            "3": {
+                "title": "A Linha do Tempo de 90 Dias",
+                "subtitle": "13 semanas de missões táticas. Não apenas 'esperamos' pela liberdade; nós a projetamos.",
+                "week_1_4": "Raio-X e Estabilização",
+                "week_5_8": "Ofensiva Sniper de Dívidas",
+                "week_9_12": "Construindo Fundaçaão de Riqueza",
+                "week_13": "A Nova Identidade Financeira"
+            },
+            "4": {
+                "title": "Você Não Está Sozinho",
+                "subtitle": "Junte-se a mais de 2.800 sul-africanos que estão executando as mesmas missões agora. Nós crescemos juntos.",
+                "stat_users": "2.842 Membros Ativos",
+                "stat_debt": "R12.5M Dívida Eliminada"
+            },
+            "5": {
+                "title": "Sua Primeira Missão",
+                "subtitle": "Antes de matarmos a dívida, precisamos descobrir exatamente onde ela está se escondendo. Você está pronto?",
+                "cta": "INICIAR RAIO-X FINANCEIRO"
+            }
+        },
+        "skip": "Pular introdução",
+        "next": "Continuar",
+        "finish": "Vamos Lá!"
+    },
+    "x_ray": {
+        "title": "Raio-X Financeiro",
+        "income": {
+            "title": "Renda Mensal",
+            "subtitle": "Vamos começar com o que entra.",
+            "primary": "Salário Líquido",
+            "additional": "Renda Extra",
+            "total": "Total Mensal"
+        },
+        "expenses": {
+            "title": "Despesas Fixas",
+            "subtitle": "Apenas o essencial para sobreviver.",
+            "total_out": "Total Saídas",
+            "difference": "Fluxo de Caixa"
+        },
+        "debts": {
+            "title": "Inventário de Dívidas",
+            "subtitle": "Liste todos os seus inimigos.",
+            "name_placeholder": "ex: Cartão Nubank",
+            "balance": "Saldo Devedor",
+            "rate": "Juros (%)",
+            "min_payment": "Pagamento Mín.",
+            "total_owed": "Dívida Total"
+        },
+        "summary": {
+            "title": "Resultado do Raio-X",
+            "subtitle": "A verdade dói, mas liberta.",
+            "analyzing": "Analisando...",
+            "finish_cta": "Ver Diagnóstico",
+            "complete_title": "Raio-X Completo",
+            "complete_subtitle": "Seu fluxo de caixa mensal real é:",
+            "good_news": "O Veredito",
+            "good_news_surplus": "Você tem um superávit! Podemos usar isso para atacar as dívidas.",
+            "good_news_deficit": "Você está sangrando dinheiro. Precisamos estancar isso IMEDIATAMENTE.",
+            "next_step": "Próximo Passo",
+            "next_step_desc": "A estratégia 'Debt Sniper' está sendo calculada com base nos seus juros.",
+            "back_dashboard": "Voltar ao Dashboard"
+        }
+    },
+    "debt_sniper": {
+        "title": "Sniper de Dívidas",
+        "subtitle": "Motor de eliminação tática. Escolha sua arma.",
+        "strategy": {
+            "title": "Escolha sua Estratégia",
+            "snowball": "Bola de Neve (Menor Valor)",
+            "avalanche": "Avalanche (Maior Juros)",
+            "snowball_desc": "Vitórias psicológicas rápidas eliminando dívidas pequenas.",
+            "avalanche_desc": "Otimização matemática economizando o máximo de juros."
+        },
+        "ladder": {
+            "title": "Escada de Prioridade",
+            "threat": "Alvo Atual",
+            "next": "Próxima Base",
+            "secured": "Eliminado"
+        },
+        "projection": {
+            "title": "Projeção de Liberdade",
+            "subtitle": "Caminho do Banco vs. Caminho do Sniper",
+            "bank_path": "Caminho do Banco",
+            "sniper_path": "Caminho Sniper",
+            "interest_saved": "Juros Economizados",
+            "time_saved": "Tempo Salvo"
+        },
+        "scripts": {
+            "title": "Scripts de Negociação",
+            "subtitle": "Use estes modelos para reduzir suas taxas hoje.",
+            "copy": "Copiar",
+            "copied": "Copiado!"
+        }
+    },
+    "summary": {
+        "title": "Resumo Tático Mensal",
+        "savings_projection": "Economia Mensal Projetada"
+    },
+    "journey": {
+        "title": "O Reset de 90 Dias",
+        "subtitle": "13 Semanas de missões táticas para recuperar sua vida.",
+        "weeks": {
+            "1": {
+                "title": "Estabilização",
+                "theme": "Parando o Sangramento",
+                "description": "Esta semana encontramos os vazamentos e estabilizamos seu fluxo de caixa. Sem mais surpresas.",
+                "checklist": [
+                    "Completar Raio-X Financeiro",
+                    "Identificar 3 assinaturas desnecessárias",
+                    "Configurar envelopes do CashFlow OS"
+                ]
+            },
+            "2": {
+                "title": "O Buffer de Sobrevivência",
+                "theme": "Construindo o Muro",
+                "description": "Você precisa de um fundo de emergência de R1.000 antes de começarmos a matar a dívida.",
+                "checklist": [
+                    "Economizar seu primeiro buffer de R1.000",
+                    "Mover o buffer para uma conta separada",
+                    "Nomear a conta como 'Fundo de Paz'"
+                ]
+            },
+            "3": {
+                "title": "Jogos Vorazes",
+                "theme": "Corte Agressivo",
+                "description": "Desconforto temporário para liberdade permanente. Cortamos tudo, menos o essencial.",
+                "checklist": [
+                    "Não comer fora por 7 dias",
+                    "Auditar lista de compras (Apenas marcas genéricas)",
+                    "Identificar R300 para redirecionar para dívida"
+                ]
+            },
+            "4": {
+                "title": "Inventário de Dívidas",
+                "theme": "Encarando a Realidade",
+                "description": "Transparência total. Listamos cada centavo que você deve a qualquer pessoa.",
+                "checklist": [
+                    "Verificar todos os saldos de dívidas",
+                    "Listar todas as taxas de juros",
+                    "Ordenar por Prioridade Sniper"
+                ]
+            },
+            "5": {
+                "title": "Configuração Tática Sniper",
+                "theme": "Estratégia de Batalha",
+                "description": "Escolha sua arma: Bola de Neve para vitórias ou Avalanche para matemática.",
+                "checklist": [
+                    "Selecionar Estratégia Sniper de Dívidas",
+                    "Automatizar pagamentos mínimos",
+                    "Calcular o primeiro 'Tiro Sniper'"
+                ]
+            },
+            "6": {
+                "title": "A Chamada do Credor",
+                "theme": "Negociação",
+                "description": "Retomamos o poder. Ligamos para eles e baixamos as taxas.",
+                "checklist": [
+                    "Ligar para o credor principal",
+                    "Solicitar redução da taxa de juros",
+                    "Pedir isenção de taxas de atraso"
+                ]
+            },
+            "7": {
+                "title": "A Primeira Morte",
+                "theme": "Primeiro Sangue",
+                "description": "O momento em que se torna real. Ver um saldo chegar a zero.",
+                "checklist": [
+                    "Executar pagamento extra",
+                    "Fechar a primeira conta",
+                    "Comemorar a vitória (Celebração R0)"
+                ]
+            },
+            "8": {
+                "title": "Construindo Velocidade",
+                "theme": "O Roll-Over",
+                "description": "Não gaste o dinheiro extra. Role-o para o próximo alvo.",
+                "checklist": [
+                    "Identificar o valor do 'Pagamento Morto'",
+                    "Redirecionar para a dívida da 'Próxima Base'",
+                    "Registrar a linha do tempo atualizada"
+                ]
+            },
+            "9": {
+                "title": "Sprint de Renda Extra",
+                "theme": "Geração de Munição",
+                "description": "Acelere a data da morte trazendo mais munição.",
+                "checklist": [
+                    "Encontrar 3 itens para vender online",
+                    "Executar 1 tarefa de renda extra",
+                    "Adicionar 'Munição' ao Tiro Sniper"
+                ]
+            },
+            "10": {
+                "title": "Reparo de Relacionamentos",
+                "theme": "O Front Doméstico",
+                "description": "Estresse financeiro mata casamentos. Construímos uma frente unida.",
+                "checklist": [
+                    "Ter uma 'Sessão de Sonhos' com o parceiro",
+                    "Definir uma meta financeira conjunta",
+                    "Compartilhar o progresso Sniper"
+                ]
+            },
+            "11": {
+                "title": "Psicologia da Riqueza",
+                "theme": "Mudança de Mentalidade",
+                "description": "Por que você se endividou? Corrigimos a causa raiz.",
+                "checklist": [
+                    "Identificar seu 'Gatilho de Dinheiro'",
+                    "Criar uma lista de espera de gastos",
+                    "Refletir sobre 'Identidade sobre Ícones'"
+                ]
+            },
+            "12": {
+                "title": "Planejamento de Legado",
+                "theme": "Além da Dívida",
+                "description": "Quando a dívida se for, para onde vai o dinheiro?",
+                "checklist": [
+                    "Planejar primeira meta de investimento",
+                    "Calcular crescimento do patrimônio líquido",
+                    "Esboçar seu 'Testamento Financeiro'"
+                ]
+            },
+            "13": {
+                "title": "A Nova Identidade",
+                "theme": "Graduação",
+                "description": "Você não é mais uma pessoa endividada. Você é um Mestre do Fluxo de Caixa.",
+                "checklist": [
+                    "Finalizar revisão de 90 dias",
+                    "Definir metas de riqueza 'Fase 2'",
+                    "Compartilhar sucesso com a comunidade"
+                ]
+            }
+        },
+        "stats": {
+            "current_week": "Semana Atual",
+            "missions_done": "Missões Executadas",
+            "badges": "Distintivos Ganhos"
+        }
+    },
+    "expenses": {
+        "title": "Rastreador de Despesas",
+        "subtitle": "Rastreie cada Rand. Controle seu futuro.",
+        "stats": {
+            "today": "Gastos de Hoje",
+            "month": "Este Mês",
+            "transactions": "Transações"
+        },
+        "search_placeholder": "Pesquisar despesas...",
+        "filters": {
+            "all_categories": "Todas as Categorias",
+            "food": "Alimentação",
+            "transport": "Transporte",
+            "housing": "Moradia",
+            "utilities": "Utilidades",
+            "entertainment": "Entretenimento",
+            "shopping": "Compras",
+            "healthcare": "Saúde",
+            "other": "Outros"
+        },
+        "list": {
+            "empty_title": "Nenhuma despesa encontrada",
+            "empty_subtitle": "Comece a rastrear seus gastos agora!",
+            "date_today": "Hoje",
+            "date_yesterday": "Ontem"
+        },
+        "add_modal": {
+            "title": "Adicionar Despesa",
+            "amount_label": "Valor (R)",
+            "category_label": "Categoria",
+            "description_label": "Descrição (Opcional)",
+            "description_placeholder": "ex: Almoço no café",
+            "cancel_btn": "Cancelar",
+            "submit_btn": "Adicionar",
+            "submitting_btn": "Adicionando..."
+        }
+    },
+    "quiz": {
+        "question": "Pergunta",
+        "secure": "Conexão segura e anônima",
+        "analyzing": {
+            "title": "Analisando Seu Perfil Financeiro...",
+            "subtitle": "Comparando sua situação com 2.847 casos de recuperação bem-sucedidos."
+        },
+        "questions": {
+            "debt_amount": {
+                "question": "Quanto de dívida está pesando sobre seus ombros atualmente?",
+                "options": {
+                    "opt1": "É gerenciável (Abaixo de R10.000)",
+                    "opt2": "Está ficando pesado (R10k - R50k)",
+                    "opt3": "Está me sufocando (R50k - R200k)",
+                    "opt4": "Perdi a conta (> R200.000)"
+                }
+            },
+            "monthly_status": {
+                "question": "Qual afirmação descreve melhor sua realidade no final do mês?",
+                "options": {
+                    "opt1": "Eu economizo dinheiro todo mês",
+                    "opt2": "Eu empato (Saldo zero)",
+                    "opt3": "Sempre falta dinheiro",
+                    "opt4": "Pego mais empréstimos só para sobreviver"
+                }
+            },
+            "sleep_quality": {
+                "question": "Como esse estresse financeiro está afetando seu sono?",
+                "options": {
+                    "opt1": "Durmo como um bebê",
+                    "opt2": "Acordo preocupado às vezes",
+                    "opt3": "Tenho insônia frequente",
+                    "opt4": "Tenho ataques de pânico / Pesadelos"
+                }
+            },
+            "collection_status": {
+                "question": "Cobradores estão te perseguindo agora?",
+                "options": {
+                    "opt1": "Não, tudo está pago",
+                    "opt2": "Lembretes ocasionais",
+                    "opt3": "Assédio constante de ligações",
+                    "opt4": "Ameaças legais / Cartas de cobrança"
+                }
+            },
+            "relationship_impact": {
+                "question": "Como isso está impactando seus relacionamentos mais próximos?",
+                "options": {
+                    "opt1": "Em nada",
+                    "opt2": "Alguma tensão menor",
+                    "opt3": "Brigamos sobre dinheiro constantemente",
+                    "opt4": "Está destruindo minha família"
+                }
+            },
+            "emotional_state": {
+                "question": "Quando você pensa no seu dinheiro, o que você sente?",
+                "options": {
+                    "opt1": "Esperançoso e no controle",
+                    "opt2": "Ansioso, mas gerenciando",
+                    "opt3": "Culpado e envergonhado",
+                    "opt4": "Paralisado pelo medo"
+                }
+            },
+            "past_attempts": {
+                "question": "O que você já tentou antes para resolver isso?",
+                "options": {
+                    "opt1": "Nada ainda, este é meu primeiro passo",
+                    "opt2": "Tentei aplicativos e planilhas",
+                    "opt3": "Tentei empréstimo consolidado (não funcionou)",
+                    "opt4": "Tentei revisão de dívida (me arrependi)"
+                }
+            },
+            "primary_goal": {
+                "question": "Se você pudesse usar uma varinha mágica, o que você mais desejaria?",
+                "options": {
+                    "opt1": "Apenas dormir em paz novamente",
+                    "opt2": "Prover adequadamente para minha família",
+                    "opt3": "Viajar e aproveitar a vida",
+                    "opt4": "Deixar um legado, não dívidas"
+                }
+            }
+        }
+    },
+    "results": {
+        "ready": "Sua Análise está Completa",
+        "score_title": "Pontuação de Sobrevivência Financeira",
+        "zones": {
+            "critical": "PERIGO CRÍTICO",
+            "warning": "ALTO RISCO",
+            "safe": "ESTÁVEL"
+        },
+        "analysis": {
+            "critical": "Você está se afogando atualmente. Sua trajetória financeira aponta para colapso total em 6-12 meses se nada mudar. Não se trata de 'economizar um pouco mais' - você precisa de um reset completo do sistema.",
+            "warning": "Você está vivendo no limite. Uma despesa inesperada pode te empurrar para uma espiral de dívidas. Você trabalha duro, mas está construindo a riqueza de outra pessoa, não a sua.",
+            "safe": "Você tem uma fundação, mas não está otimizando. Você poderia estar construindo riqueza muito mais rápido se eliminasse as ineficiências persistentes."
+        },
+        "projection": {
+            "title": "Sua Projeção de 5 Anos",
+            "subtitle": "Baseado em seus hábitos atuais vs. O Método R.E.S.E.T.",
+            "current_path": "Caminho Atual: R-250.000 patrimônio",
+            "reset_path": "Caminho R.E.S.E.T.: R+1.2M patrimônio"
+        },
+        "cta": {
+            "main": "VEJA COMO CONSERTAR ISSO EM 90 DIAS",
+            "sub": "Obtenha seu roteiro personalizado",
+            "button": "DESBLOQUEAR MEU PLANO DE RESGATE"
+        }
+    },
+    "sales": {
+        "hero": {
+            "badge": "⚠ INTERVENÇÃO DE ALTA PRIORIDADE",
+            "headline_start": "É HORA DE",
+            "headline_end": "PARAR O SANGRAMENTO.",
+            "subheadline": "Você viu sua pontuação. Você sabe a verdade. Agora, vamos falar sobre a <bold>única saída</bold> que não envolve falência ou perder sua dignidade.",
+            "cta": "ME MOSTRE O PLANO DE RESGATE ↓"
+        },
+        "problem": {
+            "title": "O JEITO VELHO (FRACASSO)",
+            "items": {
+                "1": "Tentar 'orçar' sem dinheiro",
+                "2": "Empréstimos consolidados (mais dívida)",
+                "3": "Ignorar ligações e torcer para sumir",
+                "4": "Ciclo Depressão > Ansiedade > Paralisia"
+            }
+        },
+        "solution": {
+            "title": "O MÉTODO R.E.S.E.T.",
+            "items": {
+                "1": "<b>R</b>econhecer os vazamentos imediatamente",
+                "2": "<b>E</b>liminar dívida tóxica sistematicamente",
+                "3": "<b>S</b>trategize (Estratégia) estritamente para fluxo de caixa",
+                "4": "<b>E</b>xecute (Executar) micro-missões diárias",
+                "5": "<b>T</b>ransformar seu DNA financeiro"
+            }
+        },
+        "offer": {
+            "title": "O PROTOCOLO DE LIBERDADE DE 90 DIAS",
+            "cards": {
+                "1": {
+                    "title": "Raio-X Financeiro",
+                    "desc": "Veja exatamente para onde vai cada centavo em 15 min."
+                },
+                "2": {
+                    "title": "Sniper de Dívidas",
+                    "desc": "Uma estratégia matemática para matar taxas de juros."
+                },
+                "3": {
+                    "title": "SO de Fluxo de Caixa",
+                    "desc": "Automatize sua sobrevivência para que possa dormir."
+                }
+            }
+        },
+        "pricing": {
+            "limited": "OFERTA POR TEMPO LIMITADO",
+            "original": "R 997,00",
+            "price": "R 247",
+            "cents": ",00",
+            "lifetime": "Pagamento único. Acesso vitalício.",
+            "cta": "JUNTAR-SE AO PROTOCOLO AGORA",
+            "guarantee": "Garantia de Reembolso de 30 Dias"
+        },
+        "testimonials": {
+            "title": "DE AFOGANDO A PROSPERANDO",
+            "subtitle": "Resultados de Sul-Africanos.",
+            "verified": "Compra Verificada",
+            "items": {
+                "1": {
+                    "text": "Eu estava cético porque tentei revisão de dívida e arruinou minha vida. Isso é diferente. Não é um processo legal, é uma estratégia matemática. Matei meu cartão Woolies no mês 2.",
+                    "author": "Thabo M.",
+                    "role": "Joanesburgo, SA",
+                    "rating": 5
+                },
+                "2": {
+                    "text": "Feedback honesto: A primeira semana é brutal. Você percebe quanto dinheiro desperdiça. Mas assim que o método 'Sniper de Dívidas' entra em ação, torna-se viciante ver os números caírem. 4.8/5.",
+                    "author": "Bongani Z.",
+                    "role": "Pretória, SA",
+                    "rating": 4
+                },
+                "3": {
+                    "text": "Meu marido não queria fazer isso. Comprei de qualquer maneira. Ontem à noite dormimos 8 horas seguidas pela primeira vez em anos. A paz de espírito vale 10x o preço.",
+                    "author": "Lerato K.",
+                    "role": "Cidade do Cabo, SA",
+                    "rating": 5
+                }
+            }
+        },
+        "faq": {
+            "title": "PERGUNTAS FREQUENTES",
+            "items": {
+                "1": {
+                    "q": "Isso funciona se eu estiver com nome sujo?",
+                    "a": "Sim. As estratégias de fluxo de caixa se aplicam independentemente do seu status legal. Você precisa de habilidades de sobrevivência agora."
+                },
+                "2": {
+                    "q": "Quanto tempo leva?",
+                    "a": "15 minutos por dia. Se você não tem 15 minutos para salvar sua vida, você tem problemas maiores."
+                },
+                "3": {
+                    "q": "Existe garantia?",
+                    "a": "Sim. 30 dias. Se você fizer o trabalho e não ver resultados, eu te reembolso. Sem perguntas."
+                },
+                "4": {
+                    "q": "Posso acessar pelo celular?",
+                    "a": "Sim. A plataforma inteira é 100% compatível com celular para que você possa usar em qualquer lugar."
+                },
+                "5": {
+                    "q": "Preciso informar meus dados bancários?",
+                    "a": "Não. Nunca pedimos números de contas ou senhas bancárias. Sua privacidade vem em primeiro lugar."
+                },
+                "6": {
+                    "q": "E se eu ficar preso?",
+                    "a": "Temos uma equipe de suporte dedicada disponível via e-mail e WhatsApp para guiá-lo."
+                }
+            }
+        },
+        "footer": "Isso não é um esquema de 'fique rico rápido'. Isso é trabalho duro. Mas funciona se você trabalhar.",
+        "popup": {
+            "title": "ESPERE! Não Saia De Mãos Vazias",
+            "subtitle": "Receba o primeiro capítulo do Protocolo de Liberdade Financeira totalmente GRÁTIS.",
+            "placeholder": "Digite seu e-mail",
+            "cta": "ME ENVIE O CAPÍTULO GRÁTIS",
+            "close": "Não obrigado, prefiro continuar em dívida."
+        },
+        "widget": {
+            "tooltip": "Fale com um especialista"
+        },
+        "vsl": {
+            "title": "Veja Como Thabo Saiu das Dívidas em 90 Dias",
+            "subtitle": "Estudo de Caso: De R200k em dívidas para liberdade financeira.",
+            "warning": "Este vídeo será removido em breve."
+        },
+        "notifications": {
+            "purchased": "comprou o Protocolo de Liberdade",
+            "minutes_ago": "minutos atrás"
+        }
+    },
+    "sos": {
+        "title": "SOS Financeiro",
+        "subtitle": "Quando a casa está em chamas, você não redecora. Você apaga o fogo.",
+        "warning": {
+            "title": "Apenas para emergências financeiras",
+            "list": {
+                "rent": "Não consigo pagar aluguel/hipoteca",
+                "utilities": "Contas prestes a vencer/cortar",
+                "medical": "Emergência médica sem fundos",
+                "job": "Perdi meu emprego",
+                "collectors": "Cobradores ligando"
+            }
+        },
+        "start_btn": "Iniciar Triagem de Emergência",
+        "disclaimer": "Isto não é aconselhamento financeiro profissional. Em crises graves, consulte um conselheiro de dívidas registrado.",
+        "triage": {
+            "title": "Triagem de Emergência",
+            "subtitle": "Responda a estas perguntas para que possamos ajudá-lo a priorizar.",
+            "submit_btn": "Obter Plano de Ação de Emergência",
+            "q1": {
+                "title": "Qual é a emergência?",
+                "options": {
+                    "rent": "Aluguel/Hipoteca atrasado",
+                    "utilities": "Serviços sendo cortados",
+                    "medical": "Emergência médica",
+                    "job_loss": "Perdi meu emprego",
+                    "transport": "Sem transporte",
+                    "debt_collectors": "Cobradores de dívidas",
+                    "other": "Outra crise"
+                }
+            },
+            "q2": {
+                "title": "Quantos dias até você enfrentar consequências?",
+                "options": {
+                    "today": "Hoje/Amanhã",
+                    "days_3_7": "3-7 dias",
+                    "weeks_1_2": "1-2 semanas",
+                    "weeks_2_plus": "2+ semanas"
+                }
+            },
+            "q3": {
+                "title": "Você tem ALGUM dinheiro agora?",
+                "options": {
+                    "zero": "R0",
+                    "minimal": "R1-100",
+                    "low": "R100-500",
+                    "moderate": "R500+"
+                }
+            }
+        },
+        "plan": {
+            "urgency": {
+                "critical": "EMERGÊNCIA CRÍTICA",
+                "urgent": "SITUAÇÃO URGENTE",
+                "high": "PRIORIDADE ALTA",
+                "important": "IMPORTANTE"
+            },
+            "action_msg": {
+                "today": "Você precisa agir HOJE.",
+                "days_few": "Você tem alguns dias. Aja rápido.",
+                "days_plan": "Você tem tempo para planejar, mas não espere."
+            },
+            "priority": {
+                "title": "O que pagar PRIMEIRO (Sobrevivência)",
+                "tier_1": {
+                    "title": "Nível 1: Pague Primeiro",
+                    "items": [
+                        "✓ Comida (o mínimo)",
+                        "✓ Abrigo (aluguel/hipoteca)",
+                        "✓ Medicamentos críticos",
+                        "✓ Água e eletricidade"
+                    ]
+                },
+                "tier_2": {
+                    "title": "Nível 2: Pague se Possível",
+                    "items": [
+                        "✓ Transporte para o trabalho",
+                        "✓ Telefone (para procurar emprego)",
+                        "✓ Cuidados infantis"
+                    ]
+                },
+                "tier_3": {
+                    "title": "Nível 3: Negocie/Adie",
+                    "items": [
+                        "• Cartões de crédito",
+                        "• Empréstimos pessoais",
+                        "• Contas de lojas"
+                    ]
+                },
+                "tier_4": {
+                    "title": "Nível 4: Ignore por Enquanto",
+                    "items": [
+                        "• Assinaturas",
+                        "• Entretenimento",
+                        "• Não essenciais"
+                    ]
+                }
+            },
+            "scripts": {
+                "title": "Scripts de Negociação",
+                "tips_label": "Dicas:",
+                "more_link": "Mais scripts disponíveis no kit completo.",
+                "rent": {
+                    "title": "Plano de Pagamento de Aluguel",
+                    "script": "Olá [Nome], estou ligando sobre meu aluguel...",
+                    "tips": [
+                        "Seja honesto",
+                        "Ofereça algo",
+                        "Peça por escrito"
+                    ]
+                },
+                "utilities": {
+                    "title": "Solicitação de Extensão de Prazo",
+                    "script": "Sou cliente da conta [Número]...",
+                    "tips": [
+                        "Ligue antes do corte",
+                        "Explique a situação"
+                    ]
+                }
+            },
+            "income": {
+                "title": "Ideias de Renda Rápida (24-72h)",
+                "ideas": {
+                    "sell": {
+                        "title": "Vender Itens",
+                        "earnings": "R500-5000",
+                        "time": "24h",
+                        "platform": "OLX, Facebook"
+                    },
+                    "delivery": {
+                        "title": "Entregas",
+                        "earnings": "R200/dia",
+                        "time": "Imediato",
+                        "platform": "Uber Eats"
+                    },
+                    "jobs": {
+                        "title": "Bicos",
+                        "earnings": "R100-1000",
+                        "time": "1-3 dias",
+                        "platform": "Grupos Locais"
+                    }
+                }
+            },
+            "community": {
+                "title": "Recursos da Comunidade",
+                "resources": {
+                    "sassa": {
+                        "title": "SASSA",
+                        "desc": "Assistência social"
+                    },
+                    "ncr": {
+                        "title": "Aconselhamento de Dívidas",
+                        "desc": "Ajuda gratuita (NCR)"
+                    },
+                    "mental": {
+                        "title": "Saúde Mental",
+                        "desc": "Apoio 24h"
+                    }
+                }
+            }
+        }
+    }
+}
