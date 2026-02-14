@@ -30,11 +30,23 @@ export async function POST(req: Request) {
         }
         */
 
-        const { transaction_id, status, metadata, product_id, amount } = body;
+        const { transaction_id, status, metadata, product_id, amount, email: customerEmail } = body;
         const userId = metadata?.user_id;
 
-        if (!userId || status !== 'completed') {
-            return NextResponse.json({ message: 'Missing user_id or payment not completed' }, { status: 400 });
+        // 1. Validações Básicas
+        if (status !== 'completed') {
+            return NextResponse.json({ message: 'Payment not completed' }, { status: 400 });
+        }
+
+        // Validar valor mínimo (ex: 247)
+        const expectedAmount = 247.00;
+        if (amount && parseFloat(amount) < expectedAmount) {
+            console.warn(`Payment amount low: ${amount} for user ${userId}`);
+            // Opcional: Você pode recusar ou apenas logar um aviso
+        }
+
+        if (!userId && !customerEmail) {
+            return NextResponse.json({ message: 'Missing identification (user_id or email)' }, { status: 400 });
         }
 
         // Determine subscription tier from product_id
@@ -57,7 +69,25 @@ export async function POST(req: Request) {
             return NextResponse.json({ message: 'Error recording payment' }, { status: 500 });
         }
 
-        // 2. Update the user profile status and tier
+        // 2. Localizar usuário por ID ou E-mail
+        let targetUserId = userId;
+
+        if (!targetUserId && customerEmail) {
+            const { data: profileByEmail } = await supabaseAdmin
+                .from('profiles')
+                .select('id')
+                .eq('email', customerEmail)
+                .single();
+
+            if (profileByEmail) targetUserId = profileByEmail.id;
+        }
+
+        if (!targetUserId) {
+            console.error('Could not identify user for activation:', { userId, customerEmail });
+            return NextResponse.json({ message: 'User not found' }, { status: 404 });
+        }
+
+        // 3. Update the user profile status and tier
         const { error: profileError } = await supabaseAdmin
             .from('profiles')
             .update({
@@ -65,7 +95,7 @@ export async function POST(req: Request) {
                 payment_verified_at: new Date().toISOString(),
                 subscription_tier: tier,
             })
-            .eq('id', userId);
+            .eq('id', targetUserId);
 
         if (profileError) {
             console.error('Error updating profile:', profileError);
